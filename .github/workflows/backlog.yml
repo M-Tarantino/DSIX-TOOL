@@ -1,0 +1,49 @@
+name: Seed backlog (cold start)
+
+# Manual, one-off: reconstructs a retroactive ~60-day incident backlog via
+# Gemini + Google Search grounding so the dashboard isn't empty on day one.
+# Safe to re-run -- it no-ops unless incidents.json is empty or "force" is set.
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-run even if incidents.json already has entries"
+        type: boolean
+        default: false
+      window_days:
+        description: "How many days back to reconstruct"
+        type: number
+        default: 60
+
+permissions:
+  contents: write
+
+jobs:
+  backlog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate backlog
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          ARGS="--window-days ${{ inputs.window_days }}"
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python -m src.backlog $ARGS
+
+      - name: Commit seeded data
+        run: |
+          git config user.name "dsix-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add docs/data/*.json
+          git diff --quiet --cached || git commit -m "Seed retroactive backlog [skip ci]"
+          git push origin main
