@@ -541,7 +541,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-39"
+    "item_id": "verified-incident-34"
   },
   {
     "dimension": "societal_safety",
@@ -557,7 +557,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-40"
+    "item_id": "verified-incident-35"
   },
   {
     "dimension": "cyber_security",
@@ -573,7 +573,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/pm/14890/6336746",
     "confidence": 0.8,
-    "item_id": "verified-incident-41"
+    "item_id": "verified-incident-36"
   },
   {
     "dimension": "cyber_security",
@@ -589,7 +589,7 @@
     "source": "Kommunaler Notbetrieb",
     "url": "https://kommunaler-notbetrieb.de/",
     "confidence": 0.8,
-    "item_id": "verified-incident-42"
+    "item_id": "verified-incident-37"
   },
   {
     "dimension": "societal_safety",
@@ -605,7 +605,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
     "confidence": 0.85,
-    "item_id": "verified-incident-43"
+    "item_id": "verified-incident-38"
   },
   {
     "dimension": "societal_safety",
@@ -621,7 +621,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-44"
+    "item_id": "verified-incident-39"
   },
   {
     "dimension": "societal_safety",
@@ -637,7 +637,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-45"
+    "item_id": "verified-incident-40"
   },
   {
     "dimension": "societal_safety",
@@ -653,7 +653,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.85,
-    "item_id": "verified-incident-46"
+    "item_id": "verified-incident-41"
   },
   {
     "dimension": "societal_safety",
@@ -669,7 +669,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-47"
+    "item_id": "verified-incident-42"
   },
   {
     "dimension": "critical_infrastructure",
@@ -685,7 +685,7 @@
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
     "confidence": 0.85,
-    "item_id": "verified-incident-48"
+    "item_id": "verified-incident-43"
   },
   {
     "dimension": "societal_safety",
@@ -701,7 +701,7 @@
     "source": "Radio Bamberg",
     "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
     "confidence": 0.8,
-    "item_id": "verified-incident-49"
+    "item_id": "verified-incident-44"
   },
   {
     "dimension": "critical_infrastructure",
@@ -717,7 +717,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
     "confidence": 0.85,
-    "item_id": "verified-incident-50"
+    "item_id": "verified-incident-45"
   },
   {
     "dimension": "societal_safety",
@@ -733,7 +733,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-51"
+    "item_id": "verified-incident-46"
   },
   {
     "dimension": "cyber_security",
@@ -749,7 +749,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/pm/14890/6336746",
     "confidence": 0.8,
-    "item_id": "verified-incident-52"
+    "item_id": "verified-incident-47"
   },
   {
     "dimension": "critical_infrastructure",
@@ -765,7 +765,7 @@
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
     "confidence": 0.85,
-    "item_id": "verified-incident-53"
+    "item_id": "verified-incident-48"
   },
   {
     "dimension": "societal_safety",
@@ -781,7 +781,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/pm/4970/6328602",
     "confidence": 0.85,
-    "item_id": "verified-incident-54"
+    "item_id": "verified-incident-49"
   },
   {
     "dimension": "societal_safety",
@@ -797,7 +797,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.8,
-    "item_id": "verified-incident-55"
+    "item_id": "verified-incident-50"
   },
   {
     "dimension": "cyber_security",
@@ -813,7 +813,7 @@
     "source": "Kommunaler Notbetrieb",
     "url": "https://kommunaler-notbetrieb.de/",
     "confidence": 0.8,
-    "item_id": "verified-incident-56"
+    "item_id": "verified-incident-51"
   },
   {
     "dimension": "societal_safety",
@@ -829,7 +829,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
     "confidence": 0.9,
-    "item_id": "verified-incident-57"
+    "item_id": "verified-incident-52"
   },
   {
     "dimension": "societal_safety",
@@ -845,7 +845,7 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
     "confidence": 0.85,
-    "item_id": "verified-incident-58"
+    "item_id": "verified-incident-53"
   },
   {
     "dimension": "critical_infrastructure",
@@ -861,7 +861,7 @@
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
     "confidence": 0.85,
-    "item_id": "verified-incident-59"
+    "item_id": "verified-incident-54"
   },
   {
     "dimension": "critical_infrastructure",
@@ -877,10 +877,8 @@
     "source": "Presseportal",
     "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
     "confidence": 0.85,
-    "item_id": "verified-incident-60"
-  }
-
-
+    "item_id": "verified-incident-55"
+  },
   {
     "dimension": "cyber_security",
     "severity": "critical",
@@ -895,7 +893,7 @@
     "source": "Tech Insider Deutschland, BSI, Lulius",
     "url": "https://tech-insider.org/de/berlin-cyberangriff-rhysida-erpressung-2026/",
     "confidence": 0.95,
-    "item_id": "verified-incident-1"
+    "item_id": "verified-incident-56"
   },
   {
     "dimension": "terrorism_extremism",
@@ -911,7 +909,7 @@
     "source": "Mediendienst Integration, Tagesschau",
     "url": "https://mediendienst-integration.de/extremismus/extremistischer-islamismus/islamistische-anschlaege-in-deutschland/",
     "confidence": 0.95,
-    "item_id": "verified-incident-2"
+    "item_id": "verified-incident-57"
   },
   {
     "dimension": "critical_infrastructure",
@@ -927,7 +925,7 @@
     "source": "Bundeskriminalamt, Bundesgerichtshof, bpb.de",
     "url": "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html",
     "confidence": 0.95,
-    "item_id": "verified-incident-3"
+    "item_id": "verified-incident-58"
   },
   {
     "dimension": "terrorism_extremism",
@@ -943,7 +941,7 @@
     "source": "OLG München, Mediendienst Integration, LTO",
     "url": "https://www.lto.de/recht/nachrichten/n/olg-muenchen-urteil-anschlag-verdi-demo-auto",
     "confidence": 0.95,
-    "item_id": "verified-incident-4"
+    "item_id": "verified-incident-59"
   },
   {
     "dimension": "societal_safety",
@@ -959,7 +957,7 @@
     "source": "ANSAGE",
     "url": "https://ansage.org/die-ichfreumichdrauf-sommerbilanz-2026/",
     "confidence": 0.75,
-    "item_id": "verified-incident-5"
+    "item_id": "verified-incident-60"
   },
   {
     "dimension": "political_stability",
@@ -975,7 +973,7 @@
     "source": "ZDF",
     "url": "https://www.zdfheute.de/politik/deutschland/vereidigung-neue-minister-grundgesetz-regierung-100.html",
     "confidence": 0.85,
-    "item_id": "verified-incident-6"
+    "item_id": "verified-incident-61"
   },
   {
     "dimension": "cyber_security",
@@ -991,7 +989,7 @@
     "source": "Security Insider, Bitdefender, wasacon.com",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.85,
-    "item_id": "verified-incident-7"
+    "item_id": "verified-incident-62"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1007,7 +1005,7 @@
     "source": "Wikipedia, Mediendienst Integration",
     "url": "https://en.wikipedia.org/wiki/2025_Bielefeld_stabbing_attack",
     "confidence": 0.9,
-    "item_id": "verified-incident-8"
+    "item_id": "verified-incident-63"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1023,7 +1021,7 @@
     "source": "Mediendienst Integration, WDR, Bundesanwaltschaft",
     "url": "https://mediendienst-integration.de/extremismus/extremistischer-islamismus/islamistische-anschlaege-in-deutschland/",
     "confidence": 0.9,
-    "item_id": "verified-incident-9"
+    "item_id": "verified-incident-64"
   },
   {
     "dimension": "societal_safety",
@@ -1039,7 +1037,7 @@
     "source": "Tichys Einblick",
     "url": "https://www.tichyseinblick.de/daili-es-sentials/essen-blutige-auseinandersetzung-toter-massenschlaegerei/",
     "confidence": 0.75,
-    "item_id": "verified-incident-10"
+    "item_id": "verified-incident-65"
   },
   {
     "dimension": "critical_infrastructure",
@@ -1055,7 +1053,7 @@
     "source": "Wikipedia, ZDF, Brandenburg Innenministerium",
     "url": "https://de.wikipedia.org/wiki/Sabotageakte_gegen_Umspannwerke_in_Deutschland_2026",
     "confidence": 0.9,
-    "item_id": "verified-incident-11"
+    "item_id": "verified-incident-66"
   },
   {
     "dimension": "critical_infrastructure",
@@ -1071,7 +1069,7 @@
     "source": "NZZ, NIEDERLAUSITZ aktuell, NRW Innenministerium",
     "url": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
     "confidence": 0.9,
-    "item_id": "verified-incident-12"
+    "item_id": "verified-incident-67"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1087,7 +1085,7 @@
     "source": "Radio Augsburg, Bayerisches Landeskriminalamt",
     "url": "https://www.radio-augsburg.de/explosion-in-augsburg-ermittler-bestaetigen-detonation-einer-handgranate-282696/",
     "confidence": 0.85,
-    "item_id": "verified-incident-13"
+    "item_id": "verified-incident-68"
   },
   {
     "dimension": "societal_safety",
@@ -1103,7 +1101,7 @@
     "source": "Tichys Einblick",
     "url": "https://www.tichyseinblick.de/daili-es-sentials/neunormale-einzelfalltage-explosionen-schuesse-messergewalt/",
     "confidence": 0.8,
-    "item_id": "verified-incident-14"
+    "item_id": "verified-incident-69"
   },
   {
     "dimension": "cyber_security",
@@ -1119,7 +1117,7 @@
     "source": "Bitdefender, Check Point Research, ransomware.live",
     "url": "https://netzpalaver.de/2026/08/11/ransomware-attacken-in-deutschland-oesterreich-und-der-schweiz/",
     "confidence": 0.9,
-    "item_id": "verified-incident-15"
+    "item_id": "verified-incident-70"
   },
   {
     "dimension": "cyber_security",
@@ -1135,7 +1133,7 @@
     "source": "Check Point Research, Bitkom, Tech Insider Deutschland",
     "url": "https://tech-insider.org/de/ransomware-dach-welle-2026/",
     "confidence": 0.85,
-    "item_id": "verified-incident-16"
+    "item_id": "verified-incident-71"
   },
   {
     "dimension": "cyber_security",
@@ -1151,7 +1149,7 @@
     "source": "Security Insider, creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.75,
-    "item_id": "verified-incident-17"
+    "item_id": "verified-incident-72"
   },
   {
     "dimension": "cyber_security",
@@ -1167,7 +1165,7 @@
     "source": "wasacon.com Cyberangriffe Tracker",
     "url": "https://wasacon.com/blog/cyberangriffe-deutsche-unternehmen-2026-tracker",
     "confidence": 0.75,
-    "item_id": "verified-incident-18"
+    "item_id": "verified-incident-73"
   },
   {
     "dimension": "cyber_security",
@@ -1183,7 +1181,7 @@
     "source": "wasacon.com Cyberangriffe Tracker",
     "url": "https://wasacon.com/blog/cyberangriffe-deutsche-unternehmen-2026-tracker",
     "confidence": 0.7,
-    "item_id": "verified-incident-19"
+    "item_id": "verified-incident-74"
   },
   {
     "dimension": "cyber_security",
@@ -1199,7 +1197,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-20"
+    "item_id": "verified-incident-75"
   },
   {
     "dimension": "cyber_security",
@@ -1215,7 +1213,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-21"
+    "item_id": "verified-incident-76"
   },
   {
     "dimension": "cyber_security",
@@ -1231,7 +1229,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-22"
+    "item_id": "verified-incident-77"
   },
   {
     "dimension": "cyber_security",
@@ -1247,7 +1245,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-23"
+    "item_id": "verified-incident-78"
   },
   {
     "dimension": "cyber_security",
@@ -1263,7 +1261,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-24"
+    "item_id": "verified-incident-79"
   },
   {
     "dimension": "cyber_security",
@@ -1279,7 +1277,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-25"
+    "item_id": "verified-incident-80"
   },
   {
     "dimension": "cyber_security",
@@ -1295,7 +1293,7 @@
     "source": "Security Insider",
     "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
     "confidence": 0.7,
-    "item_id": "verified-incident-26"
+    "item_id": "verified-incident-81"
   },
   {
     "dimension": "cyber_security",
@@ -1311,7 +1309,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-27"
+    "item_id": "verified-incident-82"
   },
   {
     "dimension": "cyber_security",
@@ -1327,7 +1325,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-28"
+    "item_id": "verified-incident-83"
   },
   {
     "dimension": "cyber_security",
@@ -1343,7 +1341,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-29"
+    "item_id": "verified-incident-84"
   },
   {
     "dimension": "cyber_security",
@@ -1359,7 +1357,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-30"
+    "item_id": "verified-incident-85"
   },
   {
     "dimension": "cyber_security",
@@ -1375,7 +1373,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-31"
+    "item_id": "verified-incident-86"
   },
   {
     "dimension": "cyber_security",
@@ -1391,7 +1389,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-32"
+    "item_id": "verified-incident-87"
   },
   {
     "dimension": "cyber_security",
@@ -1407,7 +1405,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-33"
+    "item_id": "verified-incident-88"
   },
   {
     "dimension": "cyber_security",
@@ -1423,7 +1421,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-34"
+    "item_id": "verified-incident-89"
   },
   {
     "dimension": "cyber_security",
@@ -1439,7 +1437,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-35"
+    "item_id": "verified-incident-90"
   },
   {
     "dimension": "cyber_security",
@@ -1455,7 +1453,7 @@
     "source": "creo.solutions",
     "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
     "confidence": 0.7,
-    "item_id": "verified-incident-36"
+    "item_id": "verified-incident-91"
   },
   {
     "dimension": "cyber_security",
@@ -1471,7 +1469,7 @@
     "source": "ransomware.live, Security Insider, Trend Micro",
     "url": "https://cristie.de/2026/07/27/ransomware-2026-infostealer-zugangsdaten-recovery/",
     "confidence": 0.85,
-    "item_id": "verified-incident-37"
+    "item_id": "verified-incident-92"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1487,7 +1485,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-38"
+    "item_id": "verified-incident-93"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1503,7 +1501,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-39"
+    "item_id": "verified-incident-94"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1519,7 +1517,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.8,
-    "item_id": "verified-incident-40"
+    "item_id": "verified-incident-95"
   },
   {
     "dimension": "terrorism_extremism",
@@ -1535,7 +1533,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-41"
+    "item_id": "verified-incident-96"
   },
   {
     "dimension": "political_stability",
@@ -1551,7 +1549,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-42"
+    "item_id": "verified-incident-97"
   },
   {
     "dimension": "cyber_security",
@@ -1567,7 +1565,7 @@
     "source": "KnowBe4, firewalls24.de",
     "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
     "confidence": 0.85,
-    "item_id": "verified-incident-43"
+    "item_id": "verified-incident-98"
   },
   {
     "dimension": "cyber_security",
@@ -1583,7 +1581,7 @@
     "source": "Bitkom, Sophos, Palo Alto Networks",
     "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
     "confidence": 0.85,
-    "item_id": "verified-incident-44"
+    "item_id": "verified-incident-99"
   },
   {
     "dimension": "cyber_security",
@@ -1599,7 +1597,7 @@
     "source": "Junge Freiheit",
     "url": "https://jungefreiheit.de/politik/deutschland/2026/29-000-messerangriffe-pro-jahr-in-deutschland/",
     "confidence": 0.8,
-    "item_id": "verified-incident-45"
+    "item_id": "verified-incident-100"
   },
   {
     "dimension": "societal_safety",
@@ -1615,7 +1613,7 @@
     "source": "Junge Freiheit",
     "url": "https://jungefreiheit.de/politik/deutschland/2026/messerattacken-treiben-zahl-schwerverletzter-in-deutschen-kliniken-hoch/",
     "confidence": 0.75,
-    "item_id": "verified-incident-46"
+    "item_id": "verified-incident-101"
   },
   {
     "dimension": "cyber_security",
@@ -1631,7 +1629,7 @@
     "source": "firewalls24.de",
     "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
     "confidence": 0.75,
-    "item_id": "verified-incident-47"
+    "item_id": "verified-incident-102"
   },
   {
     "dimension": "cyber_security",
@@ -1647,7 +1645,7 @@
     "source": "Check Point Research, firewalls24.de",
     "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
     "confidence": 0.75,
-    "item_id": "verified-incident-48"
+    "item_id": "verified-incident-103"
   },
   {
     "dimension": "cyber_security",
@@ -1663,7 +1661,7 @@
     "source": "Check Point Research",
     "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
     "confidence": 0.75,
-    "item_id": "verified-incident-49"
+    "item_id": "verified-incident-104"
   },
   {
     "dimension": "cyber_security",
@@ -1679,7 +1677,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.8,
-    "item_id": "verified-incident-50"
+    "item_id": "verified-incident-105"
   },
   {
     "dimension": "cyber_security",
@@ -1695,7 +1693,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.75,
-    "item_id": "verified-incident-51"
+    "item_id": "verified-incident-106"
   },
   {
     "dimension": "cyber_security",
@@ -1711,7 +1709,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.75,
-    "item_id": "verified-incident-52"
+    "item_id": "verified-incident-107"
   },
   {
     "dimension": "cyber_security",
@@ -1727,7 +1725,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.8,
-    "item_id": "verified-incident-53"
+    "item_id": "verified-incident-108"
   },
   {
     "dimension": "cyber_security",
@@ -1743,7 +1741,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.7,
-    "item_id": "verified-incident-54"
+    "item_id": "verified-incident-109"
   },
   {
     "dimension": "political_stability",
@@ -1759,7 +1757,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-55"
+    "item_id": "verified-incident-110"
   },
   {
     "dimension": "societal_safety",
@@ -1775,7 +1773,7 @@
     "source": "2026 in Germany Wikipedia",
     "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
     "confidence": 0.7,
-    "item_id": "verified-incident-56"
+    "item_id": "verified-incident-111"
   },
   {
     "dimension": "cyber_security",
@@ -1791,7 +1789,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.75,
-    "item_id": "verified-incident-57"
+    "item_id": "verified-incident-112"
   },
   {
     "dimension": "cyber_security",
@@ -1807,7 +1805,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.75,
-    "item_id": "verified-incident-58"
+    "item_id": "verified-incident-113"
   },
   {
     "dimension": "cyber_security",
@@ -1823,7 +1821,7 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.7,
-    "item_id": "verified-incident-59"
+    "item_id": "verified-incident-114"
   },
   {
     "dimension": "cyber_security",
@@ -1839,6 +1837,6 @@
     "source": "IFCSD",
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.8,
-    "item_id": "verified-incident-60"
+    "item_id": "verified-incident-115"
   }
 ]
