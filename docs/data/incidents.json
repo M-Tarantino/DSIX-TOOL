@@ -879,4 +879,966 @@
     "confidence": 0.85,
     "item_id": "verified-incident-60"
   }
+
+
+  {
+    "dimension": "cyber_security",
+    "severity": "critical",
+    "title": "Ransomware-Angriff Berlin (Rhysida) - Senatsverwaltungen",
+    "location": "Berlin",
+    "date": "2026-08-07",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Ransomware-Gruppe Rhysida erbeutete 5,8 Terabyte Behördendaten aus Berlins Senatsverwaltungen, forderte 30 Bitcoin Lösegeld und veröffentlichte Daten im Darknet.",
+    "source": "Tech Insider Deutschland, BSI, Lulius",
+    "url": "https://tech-insider.org/de/berlin-cyberangriff-rhysida-erpressung-2026/",
+    "confidence": 0.95,
+    "item_id": "verified-incident-1"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "critical",
+    "title": "Islamistischer Anschlag auf Christopher Street Day (Berlin)",
+    "location": "Berlin",
+    "date": "2026-07-25",
+    "casualties": {
+      "injured": 31,
+      "deaths": 1
+    },
+    "summary": "21-jähriger polizeibekannter islamistischer Gefährder fuhr mit Fahrzeug in Menschenmenge beim CSD-Fest, tötete eine Frau, verletzte 31 Personen und wurde später von Polizei erschossen.",
+    "source": "Mediendienst Integration, Tagesschau",
+    "url": "https://mediendienst-integration.de/extremismus/extremistischer-islamismus/islamistische-anschlaege-in-deutschland/",
+    "confidence": 0.95,
+    "item_id": "verified-incident-2"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "critical",
+    "title": "Brandanschlag auf Berliner Stromnetz (Januar 2026)",
+    "location": "Berlin",
+    "date": "2026-01-03",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Brandanschlag auf Hochspannungskabel im Berliner Südwesten verursachte mehrtägigen Stromausfall für über 45.000 Haushalte, linksextremistische Vulkangruppen bekannten sich zur Tat.",
+    "source": "Bundeskriminalamt, Bundesgerichtshof, bpb.de",
+    "url": "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html",
+    "confidence": 0.95,
+    "item_id": "verified-incident-3"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "critical",
+    "title": "Autoanschlag auf Gewerkschaftsdemonstration (München, Urteil August 2026)",
+    "location": "München",
+    "date": "2025-02-13",
+    "casualties": {
+      "injured": 43,
+      "deaths": 2
+    },
+    "summary": "Afghanischer Asylbewerber Farhad N. fuhr gezielt mit Auto in friedliche Gewerkschaftsdemonstration, tötete Frau und zweijähriges Kind, verletzte über 40 Personen. Im August 2026 zu lebenslanger Haft verurteilt.",
+    "source": "OLG München, Mediendienst Integration, LTO",
+    "url": "https://www.lto.de/recht/nachrichten/n/olg-muenchen-urteil-anschlag-verdi-demo-auto",
+    "confidence": 0.95,
+    "item_id": "verified-incident-4"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Schießereien im Kontext organisierter Kriminalität (Köln/NRW)",
+    "location": "Köln, Erftstadt",
+    "date": "2026-08-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "In Erftstadt-Köttingen schossen Unbekannte auf Einfamilienhaus mit Erpressungshintergrund im OK-Milieu, weitere Schussattacken auf türkisches Café in Köln-Südstadt folgten.",
+    "source": "ANSAGE",
+    "url": "https://ansage.org/die-ichfreumichdrauf-sommerbilanz-2026/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-5"
+  },
+  {
+    "dimension": "political_stability",
+    "severity": "moderate",
+    "title": "Kabinettsumbildung CDU-Regierung mit Personalkonflikt (Juli 2026)",
+    "location": "Berlin",
+    "date": "2026-07-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Nach Rücktritt Unionsfraktionschef Jens Spahn führte Kabinettsumbildung unter Kanzler Friedrich Merz zu politischem Konflikt und Fragen zur Verfassungsmäßigkeit der verspäteten Ministervereidigung.",
+    "source": "ZDF",
+    "url": "https://www.zdfheute.de/politik/deutschland/vereidigung-neue-minister-grundgesetz-regierung-100.html",
+    "confidence": 0.85,
+    "item_id": "verified-incident-6"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Ransomware-Anschläge deutsche Unternehmen Welle (Juli-August 2026)",
+    "location": null,
+    "date": "2026-08-09",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Massive Welle von Ransomware-Angriffen gegen deutsche Unternehmen (BMW, Spiegel.de, Volkswagen, Rheinmetall, AWO) erreichte Höhepunkt im August 2026 mit Gruppen wie Qilin, Akira, TheGentlemen.",
+    "source": "Security Insider, Bitdefender, wasacon.com",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-7"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "severe",
+    "title": "Messerattacke in Bielefeld (Urteil Juni 2026)",
+    "location": "Bielefeld",
+    "date": "2025-05-18",
+    "casualties": {
+      "injured": 4,
+      "deaths": 0
+    },
+    "summary": "35-jähriger syrischer Mann stach mit Messern auf Barbesucher ein, verletzte vier Personen lebensgefährlich. Bekannte IS-Mitgliedschaft, im Juni 2026 zu lebenslanger Haft verurteilt.",
+    "source": "Wikipedia, Mediendienst Integration",
+    "url": "https://en.wikipedia.org/wiki/2025_Bielefeld_stabbing_attack",
+    "confidence": 0.9,
+    "item_id": "verified-incident-8"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "severe",
+    "title": "Messerattacke an Berufsschule (Essen, September 2025)",
+    "location": "Essen",
+    "date": "2025-09-05",
+    "casualties": {
+      "injured": 3,
+      "deaths": 0
+    },
+    "summary": "17-jähriger Schüler griff Lehrerin, Hausmeister und weiteren Mann mit Messer an. Prozess begann Juni 2026 vor OLG Düsseldorf, Urteil für September 2026 erwartet.",
+    "source": "Mediendienst Integration, WDR, Bundesanwaltschaft",
+    "url": "https://mediendienst-integration.de/extremismus/extremistischer-islamismus/islamistische-anschlaege-in-deutschland/",
+    "confidence": 0.9,
+    "item_id": "verified-incident-9"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Massenschlägerei in Essen (Juli 2026)",
+    "location": "Essen",
+    "date": "2026-07-05",
+    "casualties": {
+      "injured": null,
+      "deaths": 1
+    },
+    "summary": "Massenschlägerei zwischen großen Personengruppen mit bis zu 150 Beteiligten, Messern und Macheten. Ein Toter, mehrere Schwerverletzte.",
+    "source": "Tichys Einblick",
+    "url": "https://www.tichyseinblick.de/daili-es-sentials/essen-blutige-auseinandersetzung-toter-massenschlaegerei/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-10"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "severe",
+    "title": "Sabotageakte gegen Umspannwerke Brandenburg (September 2026)",
+    "location": "Brandenburg, Turnow-Preilack",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Unbekannte Täter platzierten mehrere Sprengvorrichtungen und selbstgebaute Flugkörper am Umspannwerk Turnow-Preilack, lösten zwei Kurzschlüsse aus. Terrorermittlungen eingeleitet.",
+    "source": "Wikipedia, ZDF, Brandenburg Innenministerium",
+    "url": "https://de.wikipedia.org/wiki/Sabotageakte_gegen_Umspannwerke_in_Deutschland_2026",
+    "confidence": 0.9,
+    "item_id": "verified-incident-11"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "severe",
+    "title": "Sabotageakte gegen Umspannwerke NRW (September 2026)",
+    "location": "Nordrhein-Westfalen, Bergheim-Rheidt, Dormagen, Weisweiler",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Saboteure platzierten Abschussvorrichtungen an mehreren Umspannwerken in NRW, lösten Kurzschlüsse aus. Ermittlungen wegen verfassungsfeindlicher Sabotage und Terrorverdacht.",
+    "source": "NZZ, NIEDERLAUSITZ aktuell, NRW Innenministerium",
+    "url": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+    "confidence": 0.9,
+    "item_id": "verified-incident-12"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "critical",
+    "title": "Handgranaten-Explosion am Augsburger Hauptbahnhof (September 2026)",
+    "location": "Augsburg",
+    "date": "2026-09-02",
+    "casualties": {
+      "injured": 2,
+      "deaths": 0
+    },
+    "summary": "Handgranate detonierte um 3:15 Uhr in Geschäftspassage am Augsburger Hauptbahnhof, verursachte Knalltraumata und Sachschäden an Fassaden. Täter unbekannt.",
+    "source": "Radio Augsburg, Bayerisches Landeskriminalamt",
+    "url": "https://www.radio-augsburg.de/explosion-in-augsburg-ermittler-bestaetigen-detonation-einer-handgranate-282696/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-13"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Schießereien-Serie September 2026 (Hamburg, Berlin, Duisburg, etc.)",
+    "location": "Hamburg, Berlin, Duisburg, Seevetal, Essen, Köln, Erftstadt, Bremen, Worms, Scharnebeck",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": null,
+      "deaths": 2
+    },
+    "summary": "Innerhalb weniger Tage multiple Schusswaffentaten an mehreren Orten. In Hamburg zwei tödliche Schussverletzungen, weitere Vorfälle deutschlandweit dokumentiert.",
+    "source": "Tichys Einblick",
+    "url": "https://www.tichyseinblick.de/daili-es-sentials/neunormale-einzelfalltage-explosionen-schuesse-messergewalt/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-14"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Ransomware-Angriffe Januar-Juni 2026 Deutschland Gesamtstatistik",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Statistische Auswertung zeigt 176 Ransomware-Angriffe auf Deutschland in H1 2026 (4. weltweit nach USA, Kanada, UK). Anstieg von 22 Fällen (Januar) auf 42 (Juni).",
+    "source": "Bitdefender, Check Point Research, ransomware.live",
+    "url": "https://netzpalaver.de/2026/08/11/ransomware-attacken-in-deutschland-oesterreich-und-der-schweiz/",
+    "confidence": 0.9,
+    "item_id": "verified-incident-15"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Cyberangriffe DACH-Region 2025 Jahresstatistik",
+    "location": null,
+    "date": "2026-05-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Check Point Research: 124% Anstieg von Cyberangriffen in DACH-Region 2025. Deutschland trägt 82% aller Vorfälle. Schaden 289,2 Mrd. Euro laut Bitkom.",
+    "source": "Check Point Research, Bitkom, Tech Insider Deutschland",
+    "url": "https://tech-insider.org/de/ransomware-dach-welle-2026/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-16"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Infektionen Deutsche Bahn (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Deutsche Bahn Opfer von DDoS-Angriff und Ransomware-Versuchen im Februar 2026, Teil der anhaltenden Welle gegen Infrastruktur-Betreiber.",
+    "source": "Security Insider, creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.75,
+    "item_id": "verified-incident-17"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Clausing GmbH (August 2026)",
+    "location": "Osnabrück",
+    "date": "2026-08-08",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Tiefbauunternehmen Clausing GmbH Opfer von Qilin Ransomware, Leak-Listung im August 2026 dokumentiert.",
+    "source": "wasacon.com Cyberangriffe Tracker",
+    "url": "https://wasacon.com/blog/cyberangriffe-deutsche-unternehmen-2026-tracker",
+    "confidence": 0.75,
+    "item_id": "verified-incident-18"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff pm-energy GmbH (August 2026)",
+    "location": "Reesdorf",
+    "date": "2026-08-09",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Photovoltaik-/Energieunternehmen pm-energy GmbH Opfer von Qilin Ransomware, Leak-Listung August 2026.",
+    "source": "wasacon.com Cyberangriffe Tracker",
+    "url": "https://wasacon.com/blog/cyberangriffe-deutsche-unternehmen-2026-tracker",
+    "confidence": 0.7,
+    "item_id": "verified-incident-19"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff BMW (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Automobilhersteller BMW Opfer eines Cyberangriffs 2026, dokumentiert in Ransomware-Statistiken.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-20"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Volkswagen (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Automobilkonzern Volkswagen Opfer eines Cyberangriffs 2026, Teil der anhaltenden Welle.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-21"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Rheinmetall (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Rüstungskonzern Rheinmetall Opfer eines Cyberangriffs 2026.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-22"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Spiegel.de (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Nachrichtenportal Spiegel.de Opfer eines Cyberangriffs 2026.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-23"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Vorwerk (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Unternehmensgruppe Vorwerk Opfer eines Cyberangriffs 2026.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-24"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff AWO (Arbeiterwohlfahrt) 2026",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Soziale Wohlfahrtsorganisation AWO Opfer eines Cyberangriffs 2026.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-25"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Christ Jewelers (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Schmuckhandelskette Christ Opfer eines Cyberangriffs 2026.",
+    "source": "Security Insider",
+    "url": "https://www.security-insider.de/cyberangriffe-auf-deutsche-unternehmen-2026-aktuell-a-a5a23f3399455167641a185a6f28549b/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-26"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Röben Tonbaustoffe (Januar 2026)",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Baustoffunternehmen Röben Tonbaustoffe mehrfach als Opfer in Januar 2026 dokumentiert.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-27"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Clatronic (Januar 2026)",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Elektrogeräte-Hersteller Clatronic Opfer von Ransomware im Januar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-28"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Infocom (Januar 2026)",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "IT-Dienstleistungsunternehmen Infocom Opfer von Ransomware im Januar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-29"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Krüss (Januar 2026)",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Laborgeräte-Hersteller Krüss Opfer von Ransomware im Januar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-30"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Centrotherm International (Januar 2026)",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Solartechnik-Unternehmen Centrotherm International Opfer von Ransomware im Januar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-31"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Dinnebier Gruppe (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Dinnebier Gruppe Opfer von Ransomware im Februar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-32"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff KFZ Sauter (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Kfz-Unternehmen KFZ Sauter Opfer von Ransomware im Februar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-33"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Moldtech (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Unternehmen Moldtech Opfer von Ransomware im Februar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-34"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Spir Star (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Unternehmen Spir Star Opfer von Ransomware im Februar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-35"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Ransomware-Angriff Wagner Metall Concept (Februar 2026)",
+    "location": null,
+    "date": "2026-02-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Metallbearbeitungsunternehmen Wagner Metall Concept Opfer von Ransomware im Februar 2026.",
+    "source": "creo.solutions",
+    "url": "https://creo.solutions/de/blog/cyberangriffe-auf-deutsche-unternehmen-2026-keine-branche-bleibt-verschont",
+    "confidence": 0.7,
+    "item_id": "verified-incident-36"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Infostealer-Malware Infektionswelle Deutschland (2026)",
+    "location": null,
+    "date": "2026-05-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Wachsender Anteil von Ransomware-Angriffen beginnt mit zuvor gestohlenen Zugangsdaten aus Infostealer-Malware, nicht mit technischen Exploits. 182 registrierte Opfer Januar-Mai 2026.",
+    "source": "ransomware.live, Security Insider, Trend Micro",
+    "url": "https://cristie.de/2026/07/27/ransomware-2026-infostealer-zugangsdaten-recovery/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-37"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "moderate",
+    "title": "Verdacht Hamas-Terrorismusplot (Januar 2026)",
+    "location": "Berlin Brandenburg Airport",
+    "date": "2026-01-15",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Verdächtige am Berlin Brandenburg Airport wegen Verdacht auf Hamas-Mitgliedschaft und Planung eines Terroranschlags in Europa verhaftet.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-38"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "moderate",
+    "title": "IS-Verdacht Terroranschlagspläne Hamburg (Mai 2026)",
+    "location": "Hamburg",
+    "date": "2026-05-07",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "17-jähriger männlicher Verdächtiger in Hamburg verhaftet wegen Verdacht des IS-Terroranschlagsplots.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-39"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "severe",
+    "title": "Autounfall/Anschlag Leipzig (Mai 2026)",
+    "location": "Leipzig",
+    "date": "2026-05-04",
+    "casualties": {
+      "injured": 22,
+      "deaths": 2
+    },
+    "summary": "Auto fuhr in Menschenmenge in Leipzig Grimmaische Straße, tötete zwei Personen und verletzte 22 weitere.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.8,
+    "item_id": "verified-incident-40"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "moderate",
+    "title": "Sabotage German Navy Corvettes Verdacht (Februar 2026)",
+    "location": "Hamburg",
+    "date": "2026-02-03",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Zwei Verdächtige verhaftet wegen Verdacht auf Sabotage von mehreren für die Bundesmarine bestimmten Korvetten in Hamburg-Werft.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-41"
+  },
+  {
+    "dimension": "political_stability",
+    "severity": "moderate",
+    "title": "Spionage-Verdacht Russland (April 2026)",
+    "location": null,
+    "date": "2026-04-28",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Kasachischer Staatsbürger in Deutschland verhaftet wegen Verdacht der Spionage für Russland.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-42"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "KI-generierte Phishing-Emails Anstieg 82,6% (2025/2026)",
+    "location": null,
+    "date": "2026-05-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "82,6% der Phishing-Emails werden 2025/2026 bereits KI-generiert, Deepfake-Angriffe stiegen um über 300 Prozent.",
+    "source": "KnowBe4, firewalls24.de",
+    "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
+    "confidence": 0.85,
+    "item_id": "verified-incident-43"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Ransomware-Opfer 34% deutscher Unternehmen 2025/2026",
+    "location": null,
+    "date": "2026-05-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "34% deutscher Unternehmen waren Opfer von Ransomware, 15% haben bereits Lösegeld gezahlt. Durchschnittliche Lösegeldzahlung 267.500-1 Million USD.",
+    "source": "Bitkom, Sophos, Palo Alto Networks",
+    "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
+    "confidence": 0.85,
+    "item_id": "verified-incident-44"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Messergewalt Statistik Deutschland 29.000 Vorfälle/Jahr",
+    "location": null,
+    "date": "2026-08-09",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Deutsche Kriminalstatistik verzeichnet 29.000 Messerangriffe pro Jahr, Trend steigend. Innenminister Dobrindt präsentiert Statistik mit Anstieg Mord/Totschlag.",
+    "source": "Junge Freiheit",
+    "url": "https://jungefreiheit.de/politik/deutschland/2026/29-000-messerangriffe-pro-jahr-in-deutschland/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-45"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Messerverletzungen in deutschen Kliniken Anstieg",
+    "location": null,
+    "date": "2026-08-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Messerverletzungen durch Gewalttaten nehmen in deutschen Kliniken spürbar zu, besonders in dichbesiedelten Städten.",
+    "source": "Junge Freiheit",
+    "url": "https://jungefreiheit.de/politik/deutschland/2026/messerattacken-treiben-zahl-schwerverletzter-in-deutschen-kliniken-hoch/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-46"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Cyberangriffe tägliche Routine 245 Versuche pro Werktag",
+    "location": null,
+    "date": "2026-05-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Pro Werktag rund 245 Angriffsversuche auf deutsche Unternehmen, von automatisierten Scans bis zu gezielten Exploit-Attacken.",
+    "source": "firewalls24.de",
+    "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
+    "confidence": 0.75,
+    "item_id": "verified-incident-47"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Weltweite Ransomware-Angriffe Januar 2026",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Im Januar 2026 wurden weltweit 678 öffentlich gemeldete Ransomware-Angriffe registriert (10% Anstieg gegenüber Vorjahr). Deutschland mit 4% Anteil.",
+    "source": "Check Point Research, firewalls24.de",
+    "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
+    "confidence": 0.75,
+    "item_id": "verified-incident-48"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Qilin Ransomware-Gruppe führend Januar 2026",
+    "location": null,
+    "date": "2026-01-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Qilin-Gruppe mit 15% aller Ransomware-Fälle aktivste Angreifergruppe im Januar 2026, gefolgt von LockBit (12%) und Akira (9%).",
+    "source": "Check Point Research",
+    "url": "https://firewalls24.de/blog/cybersicherheit-deutschland-2026-n179",
+    "confidence": 0.75,
+    "item_id": "verified-incident-49"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "NIS2-Richtlinie Inkrafttreten März 2026",
+    "location": null,
+    "date": "2026-03-06",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "BSI aktivierte Portal als zentrale Registrierungs- und Meldestelle für NIS2-Richtlinie, neue Compliance-Anforderungen für kritische Infrastruktur.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-50"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Healthcare Cyberangriff BDH-Klinik Greifswald (Februar 2026)",
+    "location": "Greifswald",
+    "date": "2026-02-22",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Cyberangriff lähmte Kommunikationsnetz der BDH-Klinik Greifswald, Patientendaten wurden gestohlen.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-51"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Datenleck Abrechnungsdienstleister Unimed (April 2026)",
+    "location": null,
+    "date": "2026-04-15",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Angriff auf Abrechnungsdienstleister Unimed betraf Patientendaten mehrerer Universitätskliniken.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-52"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Datenleck IDMerit 60 Millionen deutsche Datensätze (Februar 2026)",
+    "location": null,
+    "date": "2026-02-12",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "US-Identitätsdienstleister IDMerit: ungeschützte Datenbank mit rund 60 Millionen deutschen Datensätzen im Internet exponiert.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-53"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Cyberangriff Collins Aerospace Abfertigungssystem (2026)",
+    "location": null,
+    "date": "2026-06-30",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Cyberangriff auf Collins Aerospace Abfertigungssystem störte mehrere europäische Flughäfen.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-54"
+  },
+  {
+    "dimension": "political_stability",
+    "severity": "moderate",
+    "title": "Regierungskoalition Neufassung Brandenburg (Januar 2026)",
+    "location": "Brandenburg",
+    "date": "2026-01-06",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Regierungskoalition SPD-BSW in Brandenburg wurde durch neue SPD-CDU Koalition ersetzt.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-55"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Pyrotechnik-Unfälle Neujahrsfeierlichkeiten (Januar 2026)",
+    "location": "Bielefeld",
+    "date": "2026-01-01",
+    "casualties": {
+      "injured": null,
+      "deaths": 2
+    },
+    "summary": "Zwei Personen starben in Feuerwerk-bezogenen Unfällen während Neujahrsfeierlichkeiten in Bielefeld.",
+    "source": "2026 in Germany Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+    "confidence": 0.7,
+    "item_id": "verified-incident-56"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "NIS2-Registrierungsfrist für Betreiber kritischer Infrastruktur",
+    "location": null,
+    "date": "2026-12-31",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Betroffene Einrichtungen unter NIS2-Richtlinie mussten sich bis Ende Dezember 2026 im BSI-Portal registrieren, über 29.500 Unternehmen betroffen.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-57"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "EU AI Act Vollständiges Inkrafttreten (August 2026)",
+    "location": null,
+    "date": "2026-08-26",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "EU AI Act gilt ab August 2026 vollständig mit neuen Compliance-Anforderungen für KI-Systeme in Unternehmen.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.75,
+    "item_id": "verified-incident-58"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Institut Cybersicherheit Deutschland Website Security Audit (Juni 2026)",
+    "location": null,
+    "date": "2026-06-21",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Institut für Cybersicherheit Deutschland unterzog eigene Website zweistufigem Sicherheitsaudit (TLS, HTTP-Header, DNS, OWASP-Review).",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.7,
+    "item_id": "verified-incident-59"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "73% deutscher KMU von Cyberangriffen betroffen (2024-2026)",
+    "location": null,
+    "date": "2026-06-13",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "73% der deutschen KMU wurden in den letzten zwei Jahren Opfer von Cyberangriffen, die meisten wissen es nicht.",
+    "source": "IFCSD",
+    "url": "https://ifcsd.de/meldungen/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-60"
+  }
 ]
