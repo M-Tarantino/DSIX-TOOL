@@ -1,4 +1,4 @@
-name: Update security index
+Name: Update security index
 
 on:
   schedule:
@@ -25,9 +25,8 @@ jobs:
 
       - name: Run pipeline
         env:
-          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'gemini' }}
-          FILTER_BACKEND: ${{ vars.FILTER_BACKEND || 'groq' }}
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          LLM_PROVIDER: "groq"
+          FILTER_BACKEND: "groq"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python -m src.pipeline
 
