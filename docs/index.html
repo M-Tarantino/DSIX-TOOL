@@ -17,9 +17,20 @@
     <div class="masthead-title">
       <span class="masthead-mark">DSIX</span>
       <span class="masthead-sub">Germany Security Index</span>
+      <span class="masthead-badge">Community Project</span>
     </div>
     <div class="masthead-meta" id="lastUpdated">—</div>
   </header>
+
+  <div class="disclaimer">
+    <strong>⚠️ Disclaimer:</strong> This is an independent, community-driven security monitoring dashboard. 
+    It aggregates publicly available RSS feeds and uses AI for structural analysis only. 
+    <strong>Not affiliated with official German government security services.</strong>
+    For official security information, refer to 
+    <a href="https://www.bsi.bund.de/" target="_blank" rel="noopener">BSI</a>, 
+    <a href="https://www.bbk.bund.de/" target="_blank" rel="noopener">BBK</a>, or
+    <a href="https://www.verfassungsschutz.de/" target="_blank" rel="noopener">Verfassungsschutz</a>.
+  </div>
 
   <section class="hero" aria-label="Current score">
     <div class="hero-figures">
@@ -46,34 +57,70 @@
     </div>
   </section>
 
+  <section class="about">
+    <h2 class="section-title">How it works</h2>
+    <p>
+      DSIX crawls 3 major German news sources every 6 hours, filters for security-relevant topics 
+      (terrorism, cyber attacks, infrastructure disruptions, political stability, public safety), 
+      and uses AI to structure incident data. The score is computed deterministically from incident severity 
+      and age — not AI-generated. See the 
+      <a href="https://github.com/M-Tarantino/DSIX-TOOL" target="_blank" rel="noopener">source code</a> 
+      for the full methodology.
+    </p>
+  </section>
+
   <section class="dimensions" aria-label="Score by dimension">
     <h2 class="section-title">By dimension</h2>
     <div id="dimensionList" class="dimension-list"></div>
   </section>
 
   <section class="trend" aria-label="Score trend">
-    <h2 class="section-title">Trend</h2>
+    <h2 class="section-title">Trend (90 days)</h2>
     <svg id="trendChart" class="trend-chart" viewBox="0 0 640 120" preserveAspectRatio="none"></svg>
   </section>
 
   <section class="top10" aria-label="Top 10 synthesis">
-    <h2 class="section-title">Top 10</h2>
-    <p id="top10Synthesis" class="empty-state">Not generated yet — runs alongside the scheduled crawl.</p>
+    <h2 class="section-title">Top 10 Incidents</h2>
+    <div class="top10-synthesis" id="top10Synthesis">
+      <p class="empty-state">Not generated yet — runs alongside the scheduled crawl.</p>
+    </div>
     <div id="top10List" class="incident-list"></div>
   </section>
 
   <section class="incidents" aria-label="Recent incidents">
-    <h2 class="section-title">Recent incidents</h2>
+    <h2 class="section-title">Recent incidents (last 60 days)</h2>
     <div id="incidentList" class="incident-list">
       <p class="empty-state">No incidents logged yet. The dashboard fills in as the scheduled crawl runs.</p>
     </div>
   </section>
 
   <footer class="footer">
-    <p>Score is computed on a fixed rule: each dimension starts at 100 and loses points per incident,
-    weighted by severity and decayed by age. No step in the score itself is AI-generated —
-    the LLM only turns article text into structured incident data; the arithmetic is plain code.
-    See <code>config/scoring.json</code> for weights and <code>src/scoring.py</code> for the formula.</p>
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>Methodology</h3>
+        <p>
+          Score = baseline 100 − (severity × decay). Each dimension weighted by importance. 
+          Incidents decay exponentially (half-life 14 days). 90-day rolling window.
+          See <code>config/scoring.json</code> and <code>src/scoring.py</code>.
+        </p>
+      </div>
+      <div class="footer-section">
+        <h3>Data Sources</h3>
+        <p>
+          <a href="https://www.bundesregierung.de/" target="_blank" rel="noopener">Bundesregierung</a> · 
+          <a href="https://www.deutschlandfunk.de/" target="_blank" rel="noopener">Deutschlandfunk</a> · 
+          <a href="https://www.tagesschau.de/" target="_blank" rel="noopener">Tagesschau</a>
+        </p>
+      </div>
+      <div class="footer-section">
+        <h3>Project</h3>
+        <p>
+          <a href="https://github.com/M-Tarantino/DSIX-TOOL" target="_blank" rel="noopener">GitHub</a> · 
+          Open source · 
+          <a href="https://github.com/M-Tarantino" target="_blank" rel="noopener">@M-Tarantino</a>
+        </p>
+      </div>
+    </div>
   </footer>
 
 </div>
