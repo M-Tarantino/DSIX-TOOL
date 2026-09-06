@@ -1,4 +1,4 @@
-Name: Update security index
+name: Update security index
 
 on:
   schedule:
@@ -38,4 +38,3 @@ jobs:
           git add docs/data/*.json
           git diff --quiet --cached || git commit -m "Update security index [skip ci]"
           git push origin main
-          
