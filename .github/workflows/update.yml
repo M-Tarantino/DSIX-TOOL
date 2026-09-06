@@ -35,7 +35,7 @@ jobs:
       - name: Pull latest changes
         run: git pull --rebase origin main
 
-      -- name: Run pipeline
+      - name: Run pipeline
         env:
           LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'groq' }}
           FILTER_BACKEND: ${{ vars.FILTER_BACKEND || 'keyword' }}
