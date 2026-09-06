@@ -1,0 +1,23 @@
+{
+  "feeds": [
+    {
+      "id": "bundesregierung-nachrichten",
+      "name": "Bundesregierung - Nachrichten",
+      "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+      "lang": "de"
+    },
+    {
+      "id": "deutschlandfunk-nachrichten",
+      "name": "Deutschlandfunk - Nachrichten",
+      "url": "https://www.deutschlandfunk.de/nachrichten-100.rss",
+      "lang": "de"
+    },
+    {
+      "id": "tagesschau-meldungen",
+      "name": "Tagesschau - Alle Meldungen",
+      "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+      "lang": "de"
+    }
+  ],
+  "_comment": "3 verified working feeds. Expand once these are stable."
+}

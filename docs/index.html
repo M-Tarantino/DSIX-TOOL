@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSIX — Germany Security Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="page">
+
+  <header class="masthead">
+    <div class="masthead-title">
+      <span class="masthead-mark">DSIX</span>
+      <span class="masthead-sub">Germany Security Index</span>
+    </div>
+    <div class="masthead-meta" id="lastUpdated">—</div>
+  </header>
+
+  <section class="hero" aria-label="Current score">
+    <div class="hero-figures">
+      <div class="hero-score" id="heroScore">—</div>
+      <div class="hero-status" id="heroStatus">Loading</div>
+    </div>
+    <div class="scale" role="img" aria-label="Score scale from 0 to 100">
+      <div class="scale-track">
+        <div class="scale-zone zone-crisis" style="width:20%"></div>
+        <div class="scale-zone zone-highalert" style="width:20%"></div>
+        <div class="scale-zone zone-elevated" style="width:20%"></div>
+        <div class="scale-zone zone-watchful" style="width:20%"></div>
+        <div class="scale-zone zone-stable" style="width:20%"></div>
+        <div class="scale-marker" id="scaleMarker"></div>
+      </div>
+      <div class="scale-labels">
+        <span>0 · Crisis</span>
+        <span>20</span>
+        <span>40</span>
+        <span>60</span>
+        <span>80</span>
+        <span>100 · Stable</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="dimensions" aria-label="Score by dimension">
+    <h2 class="section-title">By dimension</h2>
+    <div id="dimensionList" class="dimension-list"></div>
+  </section>
+
+  <section class="trend" aria-label="Score trend">
+    <h2 class="section-title">Trend</h2>
+    <svg id="trendChart" class="trend-chart" viewBox="0 0 640 120" preserveAspectRatio="none"></svg>
+  </section>
+
+  <section class="top10" aria-label="Top 10 synthesis">
+    <h2 class="section-title">Top 10</h2>
+    <p id="top10Synthesis" class="empty-state">Not generated yet — runs alongside the scheduled crawl.</p>
+    <div id="top10List" class="incident-list"></div>
+  </section>
+
+  <section class="incidents" aria-label="Recent incidents">
+    <h2 class="section-title">Recent incidents</h2>
+    <div id="incidentList" class="incident-list">
+      <p class="empty-state">No incidents logged yet. The dashboard fills in as the scheduled crawl runs.</p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>Score is computed on a fixed rule: each dimension starts at 100 and loses points per incident,
+    weighted by severity and decayed by age. No step in the score itself is AI-generated —
+    the LLM only turns article text into structured incident data; the arithmetic is plain code.
+    See <code>config/scoring.json</code> for weights and <code>src/scoring.py</code> for the formula.</p>
+  </footer>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

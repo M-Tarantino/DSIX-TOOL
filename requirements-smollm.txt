@@ -1,0 +1,5 @@
+# Only needed if FILTER_BACKEND=smollm.
+# Kept separate from requirements.txt so the default keyword-filter setup
+# (used in CI) doesn't pull in torch.
+transformers>=4.45
+torch>=2.2

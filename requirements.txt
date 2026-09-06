@@ -1,0 +1,10 @@
+feedparser>=6.0
+requests>=2.31
+python-dotenv>=1.0
+
+# LLM providers (import lazily, only needed if selected)
+groq>=0.11                 # Stage 1 filter (default) + Stage 2 option
+google-generativeai>=0.3.0 # Stage 2 default (gemini_provider.py)
+google-genai>=0.3.0        # src/backlog.py only -- Google Search grounding tool
+anthropic>=0.40
+openai>=1.50
