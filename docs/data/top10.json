@@ -1,5 +1,116 @@
 {
-  "generated_at": "2026-09-06T17:51:09.565243+00:00",
-  "synthesis_text": "Keine sicherheitsrelevanten Vorfälle im aktuellen Zeitfenster erfasst.",
-  "items": []
+  "generated_at": "2026-09-06T18:16:20.906387+00:00",
+  "synthesis_text": "Die aktuelle Sicherheitslage in Deutschland wird von einer Welle koordinierter Angriffe auf kritische Infrastruktur bestimmt, die von mutmaßlichen Sabotageversuchen am Stromnetz über schwere Unfälle in Häfen und Flughäfen bis hin zu Brand- und Bombenfunden reicht. Parallel dazu haben großflächige Cyberangriffe, darunter ein erpresserischer Zugriff auf das Berliner IT‑Landesnetz und ein schwerer Angriff auf die Verwaltung einer Verbandsgemeinde, sensible Daten ausgelagert und die Funktionsfähigkeit öffentlicher Dienste stark beeinträchtigt. Gesellschaftliche Spannungen zeigen sich zudem in terroristischen Ermittlungen, großflächigen Polizeieinsätzen gegen Schwarzarbeit und einzelnen Gewaltereignissen, die das Sicherheitsumfeld weiter belasten.",
+  "items": [
+    {
+      "title": "Mutmaßliche Sabotage-Aktion gegen deutsches Stromnetz mit Sprengstofffunden",
+      "dimension": "critical_infrastructure",
+      "severity": "critical",
+      "location": "Niederzier",
+      "date": "2026-09-06",
+      "summary": "Spezialeinsatzkräfte und Ermittler suchen nach mehreren versuchten Sabotageakten gegen Umspannwerke und Sprengstofffunden nach einem flüchtigen Tatverdächtigen.",
+      "source": "Deutschlandfunk",
+      "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
+      "weight": 33.71
+    },
+    {
+      "title": "Erpresserischer Cyberangriff auf das IT-Landesnetz der Berliner Verwaltung",
+      "dimension": "cyber_security",
+      "severity": "critical",
+      "location": "Berlin",
+      "date": "2026-08-30",
+      "summary": "Die Hacker-Gruppe Rhysida erbeutete Terabytes vertraulicher Daten aus Berliner Senatsverwaltungen und forderte Millionenzahlungen in Bitcoin.",
+      "source": "Tagesspiegel",
+      "url": "https://www.tagesspiegel.de/berlin/dpa-cyberattacke-auf-berliner-landesnetz-kriminelle-konnten-burger-mit-gestohlenen-daten-erpressen-15996898.html",
+      "weight": 23.83
+    },
+    {
+      "title": "Explosion eines unbekannten Gegenstands nahe Augsburger Hauptbahnhof",
+      "dimension": "societal_safety",
+      "severity": "moderate",
+      "location": "Augsburg",
+      "date": "2026-09-02",
+      "summary": "In einer Gebäudepassage nahe des Hauptbahnhofs explodierte nachts ein Gegenstand, wodurch zwei zufällige Passanten Knalltraumata erlitten.",
+      "source": "Radio Bamberg",
+      "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
+      "weight": 6.32
+    },
+    {
+      "title": "Anklage gegen mutmaßliche Unterstützer rechtsextremer Terrorvereinigung",
+      "dimension": "terrorism_extremism",
+      "severity": "moderate",
+      "location": "Jena",
+      "date": "2026-09-01",
+      "summary": "Die Bundesanwaltschaft erhob vor dem Thüringer Oberlandesgericht Anklage gegen Jugendliche wegen Verdachts der Unterstützung einer rechtsextremistischen Gruppe.",
+      "source": "ZEIT Online",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/letzte-verteidigungswelle-rechtsextreme-terrorgruppe-hamburg-bundesanwaltschaft-gxe",
+      "weight": 6.01
+    },
+    {
+      "title": "Großevakuierung in Wilhelmshaven nach Bombenfund im Marinearsenal",
+      "dimension": "societal_safety",
+      "severity": "moderate",
+      "location": "Wilhelmshaven",
+      "date": "2026-09-01",
+      "summary": "Wegen der Entschärfung einer Weltkriegsbombe im Marinearsenal mussten rund 13.600 Anwohner ihre Wohnungen vorübergehend verlassen.",
+      "source": "Stadt Wilhelmshaven",
+      "url": "https://www.wilhelmshaven.de/Aktuelles/69743-Bombenfund-im-Marinearsenal%3A-gro%C3%9Fe-Evakuierung-am-Dienstagmorge.html",
+      "weight": 6.01
+    },
+    {
+      "title": "Kollision eines Fahrgastkatamarans mit der Außenmole im Konstanzer Hafen",
+      "dimension": "critical_infrastructure",
+      "severity": "severe",
+      "location": "Konstanz",
+      "date": "2026-08-14",
+      "summary": "Ein Personenschiff prallte aus ungeklärter Ursache gegen die Hafenmole, was zu mehreren Verletzten und Ermittlungen der Wasserschutzpolizei führte.",
+      "source": "Presseportal",
+      "url": "https://www.presseportal.de/blaulicht/pm/110981/6333627",
+      "weight": 5.55
+    },
+    {
+      "title": "Polizeieinsatz nach verdächtigem Gepäckstück am Flughafen Düsseldorf",
+      "dimension": "critical_infrastructure",
+      "severity": "moderate",
+      "location": "Düsseldorf",
+      "date": "2026-08-27",
+      "summary": "Teile eines Terminals wurden kurzzeitig abgesperrt, bis Entschärfer des Bundeskriminalamts Entwarnung geben konnten.",
+      "source": "Presseportal",
+      "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+      "weight": 4.7
+    },
+    {
+      "title": "Großrazzia des Zolls gegen Schwarzarbeit auf Berliner Großbaustellen",
+      "dimension": "societal_safety",
+      "severity": "moderate",
+      "location": "Berlin",
+      "date": "2026-08-25",
+      "summary": "Hunderte Zollbeamte überprüften Baufirmen im Großraum Berlin wegen des Verdachts des gewerbsmäßigen Betrugs.",
+      "source": "Presseportal",
+      "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+      "weight": 4.25
+    },
+    {
+      "title": "Schwerer Cyberangriff lahmlegt Verwaltung der Verbandsgemeinde Rhein-Nahe",
+      "dimension": "cyber_security",
+      "severity": "severe",
+      "location": "Bingen am Rhein",
+      "date": "2026-08-07",
+      "summary": "Ein externer Cyberangriff sperrte Beschäftigte aus den Systemen aus und führte zu massiven Einschränkungen der Bürgerdienste.",
+      "source": "Kommunaler Notbetrieb",
+      "url": "https://kommunaler-notbetrieb.de/",
+      "weight": 3.92
+    },
+    {
+      "title": "Großbrand in Recyclingbetrieb erfordert stundenlangen Feuerwehreinsatz",
+      "dimension": "critical_infrastructure",
+      "severity": "moderate",
+      "location": "Hamm",
+      "date": "2026-08-21",
+      "summary": "Eine massive Rauchentwicklung führte zur Warnung der Bevölkerung und vorübergehenden Sperrung angrenzender Verkehrswege.",
+      "source": "Presseportal",
+      "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+      "weight": 3.49
+    }
+  ]
 }

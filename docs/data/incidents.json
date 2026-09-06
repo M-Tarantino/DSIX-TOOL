@@ -1,962 +1,882 @@
 [
-{
-"dimension": "critical_infrastructure",
-"severity": "critical",
-"title": "Mutmaßliche Sabotage-Aktion gegen deutsches Stromnetz mit Sprengstofffunden",
-"location": "Niederzier",
-"date": "2026-09-06",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Spezialeinsatzkräfte und Ermittler suchen nach mehreren versuchten Sabotageakten gegen Umspannwerke und Sprengstofffunden nach einem flüchtigen Tatverdächtigen.",
-"source": "Deutschlandfunk",
-"url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-"confidence": 0.95,
-"item_id": "verified-incident-1"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Explosion eines unbekannten Gegenstands nahe Augsburger Hauptbahnhof",
-"location": "Augsburg",
-"date": "2026-09-02",
-"casualties": {
-"injured": 2,
-"deaths": 0
-},
-"summary": "In einer Gebäudepassage nahe des Hauptbahnhofs explodierte nachts ein Gegenstand, wodurch zwei zufällige Passanten Knalltraumata erlitten.",
-"source": "Radio Bamberg",
-"url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
-"confidence": 0.85,
-"item_id": "verified-incident-2"
-},
-{
-"dimension": "terrorism_extremism",
-"severity": "moderate",
-"title": "Anklage gegen mutmaßliche Unterstützer rechtsextremer Terrorvereinigung",
-"location": "Jena",
-"date": "2026-09-01",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Bundesanwaltschaft erhob vor dem Thüringer Oberlandesgericht Anklage gegen Jugendliche wegen Verdachts der Unterstützung einer rechtsextremistischen Gruppe.",
-"source": "ZEIT Online",
-"url": "https://www.zeit.de/politik/deutschland/2026-09/letzte-verteidigungswelle-rechtsextreme-terrorgruppe-hamburg-bundesanwaltschaft-gxe",
-"confidence": 0.9,
-"item_id": "verified-incident-3"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Großevakuierung in Wilhelmshaven nach Bombenfund im Marinearsenal",
-"location": "Wilhelmshaven",
-"date": "2026-09-01",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Wegen der Entschärfung einer Weltkriegsbombe im Marinearsenal mussten rund 13.600 Anwohner ihre Wohnungen vorübergehend verlassen.",
-"source": "Stadt Wilhelmshaven",
-"url": "https://www.wilhelmshaven.de/Aktuelles/69743-Bombenfund-im-Marinearsenal%3A-gro%C3%9Fe-Evakuierung-am-Dienstagmorge.html",
-"confidence": 0.95,
-"item_id": "verified-incident-4"
-},
-{
-"dimension": "cyber_security",
-"severity": "minor",
-"title": "Gezielte Phishing-Welle durch gefälschte Gewinnspiele im Raum Wietze",
-"location": "Wietze",
-"date": "2026-09-01",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Kriminelle versuchten über manipulierte Gewinnspiel-E-Mails im Landkreis Celle vertrauliche Bürger- und Zugangsdaten abzugreifen.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/59457/6343209",
-"confidence": 0.85,
-"item_id": "verified-incident-5"
-},
-{
-"dimension": "cyber_security",
-"severity": "critical",
-"title": "Erpresserischer Cyberangriff auf das IT-Landesnetz der Berliner Verwaltung",
-"location": "Berlin",
-"date": "2026-08-30",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Hacker-Gruppe Rhysida erbeutete Terabytes vertraulicher Daten aus Berliner Senatsverwaltungen und forderte Millionenzahlungen in Bitcoin.",
-"source": "Tagesspiegel",
-"url": "https://www.tagesspiegel.de/berlin/dpa-cyberattacke-auf-berliner-landesnetz-kriminelle-konnten-burger-mit-gestohlenen-daten-erpressen-15996898.html",
-"confidence": 0.95,
-"item_id": "verified-incident-6"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme eines mutmaßlichen Drogenhändlers durch Videobeobachtung",
-"location": "Dortmund",
-"date": "2026-08-28",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Mithilfe polizeilicher Live-Videoüberwachung in der Nordstadt konnte ein Straßenhändler direkt beim Drogenverkauf festgenommen werden.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.85,
-"item_id": "verified-incident-7"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Kriminalpolizeiliche Durchsuchung in Adendorf führt zu Betäubungsmittelfund",
-"location": "Adendorf",
-"date": "2026-08-24",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ermittler durchsuchten mit Diensthunden ein Wohngebäude im Landkreis Lüneburg und stellten Marihuana sowie weitere Beweismittel sicher.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.85,
-"item_id": "verified-incident-8"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Festnahme im Stadtteil Nied nach tödlichem Messerangriff",
-"location": "Frankfurt am Main",
-"date": "2026-08-20",
-"casualties": {
-"injured": 0,
-"deaths": 1
-},
-"summary": "Nach intensiver Fahndung zum Tötungsdelikt an einem 24-Jährigen konnte die Polizei den mutmaßlichen Messerstecher ermitteln.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6337091",
-"confidence": 0.9,
-"item_id": "verified-incident-9"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Verkehrskontrolle in Waiblingen deckt Kokainhandel auf",
-"location": "Waiblingen",
-"date": "2026-08-19",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Bei einer Routineüberprüfung eines Fahrzeugs fanden Polizeibeamte Kokain bei einem 21-jährigen Mitfahrer und erließen Haftbefehl.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-10"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme eines mutmaßlichen Drogenhändlers in Warburg",
-"location": "Warburg",
-"date": "2026-08-19",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Bei der Durchsuchung einer Wohnung in der Innenstadt stellten Ermittler der Polizei Höxter Rauschgift sicher und nahmen den Bewohner fest.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-11"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Messerattacke in der Frankfurter Gebeschusstraße führt zu Festnahme",
-"location": "Frankfurt am Main",
-"date": "2026-08-18",
-"casualties": {
-"injured": 1,
-"deaths": 0
-},
-"summary": "Nach Hinweisen auf eine Auseinandersetzung und mutmaßlichen Drogenhandel nahm die Polizei zwei Tatverdächtige vorläufig fest.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.85,
-"item_id": "verified-incident-12"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme nach Rauschgifthandel am Waageplatz Göttingen",
-"location": "Göttingen",
-"date": "2026-08-12",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Einsatzkräfte kontrollierten einen 22-Jährigen auf einem öffentlichen Platz und stellten verkaufsfertige Betäubungsmittel sicher.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-13"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Wohnungsdurchsuchung deckt Kokainhandel in Essener Innenstadt auf",
-"location": "Essen",
-"date": "2026-08-13",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Polizeibeamte durchsuchten ein Objekt im Bereich der Viehofer Straße und nahmen einen 35-jährigen Tatverdächtigen fest.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-14"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "severe",
-"title": "Kollision eines Fahrgastkatamarans mit der Außenmole im Konstanzer Hafen",
-"location": "Konstanz",
-"date": "2026-08-14",
-"casualties": {
-"injured": 6,
-"deaths": 0
-},
-"summary": "Ein Personenschiff prallte aus ungeklärter Ursache gegen die Hafenmole, was zu mehreren Verletzten und Ermittlungen der Wasserschutzpolizei führte.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/110981/6333627",
-"confidence": 0.9,
-"item_id": "verified-incident-15"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Schwerer Verkehrsunfall zwischen Streifenwagen und Linienbus",
-"location": "Frankfurt am Main",
-"date": "2026-08-09",
-"casualties": {
-"injured": 6,
-"deaths": 0
-},
-"summary": "Im Höchster Kreuzungsbereich stieß ein auf einer Einsatzfahrt befindlicher Streifenwagen mit einem Bus zusammen.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.85,
-"item_id": "verified-incident-16"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Festnahme nach gefährlicher Körperverletzung mit Messer in Sachsenhausen",
-"location": "Frankfurt am Main",
-"date": "2026-08-08",
-"casualties": {
-"injured": 1,
-"deaths": 0
-},
-"summary": "In der Nacht wurde ein 24-jähriger Mann festgenommen, der im Verdacht steht, sein Opfer im Streit mit einem Messer schwer verletzt zu haben.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6329490",
-"confidence": 0.85,
-"item_id": "verified-incident-17"
-},
-{
-"dimension": "cyber_security",
-"severity": "severe",
-"title": "Schwerer Cyberangriff lahmlegt Verwaltung der Verbandsgemeinde Rhein-Nahe",
-"location": "Bingen am Rhein",
-"date": "2026-08-07",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein externer Cyberangriff sperrte Beschäftigte aus den Systemen aus und führte zu massiven Einschränkungen der Bürgerdienste.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.9,
-"item_id": "verified-incident-18"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Mehrere tätliche Angriffe auf Polizeikräfte im Stadtgebiet Frankfurt",
-"location": "Frankfurt am Main",
-"date": "2026-08-05",
-"casualties": {
-"injured": 6,
-"deaths": 0
-},
-"summary": "Bei verschiedenen Festnahmen und Kontrollen leisteten mehrere Personen Widerstand, wobei sechs Polizeibeamte leicht verletzt wurden.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6328602",
-"confidence": 0.85,
-"item_id": "verified-incident-19"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Schwerer Verkehrsunfall mit Landwirtschaftsfahrzeug auf der Kreisstraße 17",
-"location": "Ahaus",
-"date": "2026-08-04",
-"casualties": {
-"injured": 2,
-"deaths": 0
-},
-"summary": "Auf der K17 kollidierten mehrere Fahrzeuge mit einer Traktor-Kombination, was eine temporäre Vollsperrung erforderlich machte.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.8,
-"item_id": "verified-incident-20"
-},
-{
-"dimension": "societal_safety",
-"severity": "severe",
-"title": "Tödlicher Absturz eines Leichtflugzeugs bei Ganderkesee",
-"location": "Ganderkesee",
-"date": "2026-07-26",
-"casualties": {
-"injured": 0,
-"deaths": 2
-},
-"summary": "Ein zweisitziges Leichtflugzeug stürzte im Stettiner Weg ab, wobei beide Insassen noch an der Unfallstelle verstarben.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.9,
-"item_id": "verified-incident-21"
-},
-{
-"dimension": "political_stability",
-"severity": "moderate",
-"title": "Umfassende Kabinettsumbildung im Bundeskanzleramt entfacht politische Debatte",
-"location": "Berlin",
-"date": "2026-07-29",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Kritik an der Verzögerung und der Rechtmäßigkeit der Umbesetzung mehrerer Bundesministerien sorgte für politische Spannungen.",
-"source": "Wikipedia / Bundesregierung",
-"url": "https://de.wikipedia.org/wiki/Kabinett_Merz",
-"confidence": 0.9,
-"item_id": "verified-incident-22"
-},
-{
-"dimension": "societal_safety",
-"severity": "severe",
-"title": "Tödliche Messerattacke nach Streit am U-Bahnhof Berne",
-"location": "Hamburg",
-"date": "2026-07-25",
-"casualties": {
-"injured": 1,
-"deaths": 1
-},
-"summary": "Am späten Samstagabend eskalierte eine Auseinandersetzung zwischen mehreren Männern an der Haltestelle Berne tödlich.",
-"source": "Presseportal",
-"url": "https://www.sandrokappe.de/toedliche-messerattacke-am-u-bahnhof-berne-am-25-juli-2026/",
-"confidence": 0.85,
-"item_id": "verified-incident-23"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Kompletter Ausfall des Niederrhein-Netzes durch beschädigtes Telekom-Kabel",
-"location": "Kamp-Lintfort",
-"date": "2026-07-23",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein defektes Verzweigerkabel legte das kommunale Rechenzentrum Niederrhein für mehrere Stunden vollständig lahm.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-24"
-},
-{
-"dimension": "political_stability",
-"severity": "moderate",
-"title": "Angekündigter Rücktritt von Jens Spahn sorgt für Nachfolgedebatte in der Union",
-"location": "Berlin",
-"date": "2026-07-22",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Rücktrittsentscheidung löste parteiinterne Spekulationen und Diskussionen über die Neubesetzung wichtiger Spitzenämter aus.",
-"source": "WEB.DE",
-"url": "https://web.de/magazine/politik/inland/ruecktritt-offene-fragen-42530778",
-"confidence": 0.85,
-"item_id": "verified-incident-25"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Verletzte Polizeibeamte bei Festnahmen in Frankfurt-Westend",
-"location": "Frankfurt am Main",
-"date": "2026-07-21",
-"casualties": {
-"injured": 3,
-"deaths": 0
-},
-"summary": "Bei Kontrollen wegen mutmaßlichen Betäubungsmittelhandels leisteten Verdächtige heftigen Widerstand und verletzten Einsatzkräfte.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6319534",
-"confidence": 0.8,
-"item_id": "verified-incident-26"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "Cyberangriff auf den städtischen IT-Dienstleister Lecos in Leipzig",
-"location": "Leipzig",
-"date": "2026-07-20",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein gezielter Hackerangriff führte zum Abfluss technischer Verzeichnisdaten mehrerer kommunaler Eigenbetriebe.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-27"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme nach queerfeindlichen Übergriffen im Allerheiligenviertel",
-"location": "Frankfurt am Main",
-"date": "2026-07-18",
-"casualties": {
-"injured": 1,
-"deaths": 0
-},
-"summary": "In der Frankfurter Innenstadt ereigneten sich zwei diskriminierende Attacken, woraufhin die Polizei einen Tatverdächtigen festnahm.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6316969",
-"confidence": 0.85,
-"item_id": "verified-incident-28"
-},
-{
-"dimension": "cyber_security",
-"severity": "severe",
-"title": "Ransomware-Befall zwingt Stadtverwaltung Wriezen vom Netz",
-"location": "Wriezen",
-"date": "2026-07-17",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Entdeckte Verschlüsselungstrojaner veranlassten die IT-Sicherheit, alle Systeme der Verwaltung präventiv zu trennen.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-29"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme nach Raubüberfall in Frankfurter Hotelzimmer",
-"location": "Frankfurt am Main",
-"date": "2026-07-17",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Nach einem nächtlichen Raub im Stadtteil Gallus konnte die Polizei einen 19-jährigen Tatverdächtigen an seiner Adresse stellen.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6316639",
-"confidence": 0.8,
-"item_id": "verified-incident-30"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "DDoS-Angriff legt Onlinedienste der Landeshauptstadt Wiesbaden lahm",
-"location": "Wiesbaden",
-"date": "2026-07-16",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Kriminelle überfluteten die Webserver der Stadt mit Datenanfragen, weshalb Bürgerdienste stundenlang ausfielen.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-31"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "Hackerangriff auf die Webserver-Infrastruktur der Stadt Döbeln",
-"location": "Döbeln",
-"date": "2026-07-15",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Stadtverwaltung Döbeln nahm ihre offizielle Webseite nach Entdeckung einer Cyberattacke für über eine Woche vom Netz.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-32"
-},
-{
-"dimension": "terrorism_extremism",
-"severity": "severe",
-"title": "BKA nimmt zwei mutmaßliche IS-Mitglieder im Kreis Stormarn fest",
-"location": "Stormarn",
-"date": "2026-07-09",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Auf Grund von Haftbefehlen der Bundesanwaltschaft wurden zwei Iraker wegen Terroreinbindung und Kriegsverbrechen festgenommen.",
-"source": "Bundeskriminalamt",
-"url": "https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Kurzmeldungen/260709_GBA_PM_Festnahme_IS.html",
-"confidence": 0.95,
-"item_id": "verified-incident-33"
-},
-{
-"dimension": "societal_safety",
-"severity": "severe",
-"title": "Gewalttat mit Messer an Schule in Schongau fordert Schwerverletzte",
-"location": "Schongau",
-"date": "2026-07-08",
-"casualties": {
-"injured": 2,
-"deaths": 0
-},
-"summary": "Bei einer Messerattacke auf dem Schulgelände wurden zwei Menschen schwer verletzt, ehe Nothelfer eingreifen konnten.",
-"source": "Radio Bamberg",
-"url": "https://www.radio-bamberg.de/schwerverletzte-in-schongau-laut-polizei-ausser-lebensgefahr-2307903/",
-"confidence": 0.85,
-"item_id": "verified-incident-34"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "UnSafe Ransomware-Gruppe behauptet Datenabfluss bei Deutsche Bank",
-"location": "Frankfurt am Main",
-"date": "2026-07-06",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Auf einer Erpresser-Leakseite tauchte ein Eintrag auf, der behauptete, vertrauliche interne Daten des Finanzinstituts entwendet zu haben.",
-"source": "BornCity Cyber Security",
-"url": "https://borncity.com/blog/2026/07/06/deutsche-bank-opfer-der-unsafe-ransomware-gruppe/",
-"confidence": 0.75,
-"item_id": "verified-incident-35"
-},
-{
-"dimension": "cyber_security",
-"severity": "severe",
-"title": "Cyberangriff zwingt Stadtverwaltung Furtwangen in Notbetrieb",
-"location": "Furtwangen im Schwarzwald",
-"date": "2026-07-02",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein Angriff auf die Netzwerke der Stadtverwaltung führte zur Schließung des Bürgerbüros und zur Einschaltung des CSBW.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.85,
-"item_id": "verified-incident-36"
-},
-{
-"dimension": "terrorism_extremism",
-"severity": "moderate",
-"title": "Festnahme eines mutmaßlichen IS-Kämpfers im Ortenaukreis",
-"location": "Ortenaukreis",
-"date": "2026-07-02",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein irakischer Staatsbürger wurde durch das Landeskriminalamt festgenommen, weil er in einer dschihadistischen Kampfeinheit aktiv war.",
-"source": "Der Generalbundesanwalt",
-"url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-02-07-2026-2.html",
-"confidence": 0.95,
-"item_id": "verified-incident-37"
-},
-{
-"dimension": "terrorism_extremism",
-"severity": "severe",
-"title": "Festnahme wegen mutmaßlichen Völkermordes im Main-Kinzig-Kreis",
-"location": "Main-Kinzig-Kreis",
-"date": "2026-07-01",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ermittler des Bundeskriminalamts nahmen einen Verdächtigen fest, dem mutmaßliche Beteiligung an Völkermord und Morden zur Last gelegt wird.",
-"source": "Der Generalbundesanwalt",
-"url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-01-07-2026.html",
-"confidence": 0.95,
-"item_id": "verified-incident-38"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Zivilkräfte nehmen mutmaßlichen Drogenhändler in Düren fest",
-"location": "Düren",
-"date": "2026-09-03",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Nach der Beobachtung einer Übergabe im Bereich Zur Kesselkaul stellte die Polizei Kokain und Bargeld sicher.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-39"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Festnahme eines mutmaßlichen Drogendealers im Bereich Rastatt",
-"location": "Rastatt",
-"date": "2026-09-04",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Polizei Offenburg nahm einen Tatverdächtigen fest und beschlagnahmte verkaufsfertige Rauschmittel.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-40"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "Anstieg Phishing-Aktivitäten zum Schuljahresbeginn an Bildungseinrichtungen",
-"location": null,
-"date": "2026-08-20",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Sicherheitsforscher registrierten eine Welle gefälschter Bildungsdomains zur Abfischnung von Schüler- und Lehrerdaten.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/pm/14890/6336746",
-"confidence": 0.8,
-"item_id": "verified-incident-41"
-},
-{
-"dimension": "cyber_security",
-"severity": "minor",
-"title": "Fortinet-Firewall Angriff im Rahmen der FortiBleed Kampagne",
-"location": "Stadtlohn",
-"date": "2026-07-10",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein opportunistischer Hackerangriff auf die Sicherheitsinfrastruktur der Feuerwehr wurde frühzeitig abgefangen.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.8,
-"item_id": "verified-incident-42"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Tödlicher Badeunfall eines 18-Jährigen in Friedland",
-"location": "Friedland",
-"date": "2026-07-30",
-"casualties": {
-"injured": 0,
-"deaths": 1
-},
-"summary": "Ein junger Mann geriet beim Schwimmen im See in Not und ertrank trotz sofortiger Rettungsversuche.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.85,
-"item_id": "verified-incident-43"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Einbruchsserie in Kölner Wohnquartier führt zu Festnahme",
-"location": "Köln",
-"date": "2026-08-15",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Aufmerksame Anwohner alarmierten die Polizei, die Einbrecher auf frischer Tat im Objekt stellen konnte.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-44"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Geldautomatensprengung verursacht erheblichen Gebäudeschaden",
-"location": "Recklinghausen",
-"date": "2026-08-18",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Unbekannte Täter sprengten in den frühen Morgenstunden einen Geldautomaten einer Bankfiliale und flüchteten mit einem Sportwagen.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-45"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Großrazzia des Zolls gegen Schwarzarbeit auf Berliner Großbaustellen",
-"location": "Berlin",
-"date": "2026-08-25",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Hunderte Zollbeamte überprüften Baufirmen im Großraum Berlin wegen des Verdachts des gewerbsmäßigen Betrugs.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.85,
-"item_id": "verified-incident-46"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Auseinandersetzung im Stuttgarter Hauptbahnhof führt zu Polizeieinsatz",
-"location": "Stuttgart",
-"date": "2026-08-12",
-"casualties": {
-"injured": 1,
-"deaths": 0
-},
-"summary": "Bundespolizisten überwältigten einen Randalierer, nachdem dieser Bahnreisende belästigt und angegriffen hatte.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-47"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Kabelbrand führt zu Teilausfall im S-Bahn-Netz München",
-"location": "München",
-"date": "2026-08-03",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein technischer Defekt an einem Kabelstrang legte wichtige Signalverbindungen auf der Stammstrecke stundenlang lahm.",
-"source": "Deutschlandfunk",
-"url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-"confidence": 0.85,
-"item_id": "verified-incident-48"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Polizeiwarnung vor Welle von Schockanrufen im Nürnberger Land",
-"location": "Nürnberg",
-"date": "2026-08-29",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Telefonbetrüger gaben sich gegenüber Senioren als Polizeibeamte aus, um Kautionszahlungen zu erpressen.",
-"source": "Radio Bamberg",
-"url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
-"confidence": 0.8,
-"item_id": "verified-incident-49"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Großbrand in Recyclingbetrieb erfordert stundenlangen Feuerwehreinsatz",
-"location": "Hamm",
-"date": "2026-08-21",
-"casualties": {
-"injured": 1,
-"deaths": 0
-},
-"summary": "Eine massive Rauchentwicklung führte zur Warnung der Bevölkerung und vorübergehenden Sperrung angrenzender Verkehrswege.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.85,
-"item_id": "verified-incident-50"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Bundespolizei stoppt Schleuserfahrzeug an der deutsch-polnischen Grenze",
-"location": "Frankfurt (Oder)",
-"date": "2026-08-10",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Einsatzkräfte entdeckten bei einer Kontrolle mehrere unerlaubt eingereiste Personen in einem Transporter.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-51"
-},
-{
-"dimension": "cyber_security",
-"severity": "minor",
-"title": "Warnung vor Phishing-Mails im Namen von Finanzbehörden in Bremen",
-"location": "Bremen",
-"date": "2026-08-14",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Cybercrime-Zentrale warnte vor gefälschten Benachrichtigungen zur angeblichen Steuerrückzahlung.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/pm/14890/6336746",
-"confidence": 0.8,
-"item_id": "verified-incident-52"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Oberleitungsschaden blockiert Hauptbahnstrecke nahe Hannover",
-"location": "Hannover",
-"date": "2026-07-28",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein beschädigter Stromabnehmer beschädigte die Oberleitung, was zu erheblichen Verspätungen im Fernverkehr führte.",
-"source": "Deutschlandfunk",
-"url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-"confidence": 0.85,
-"item_id": "verified-incident-53"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "SEK-Einsatz nach Messerbedrohung in Mannheimer Innenstadt",
-"location": "Mannheim",
-"date": "2026-08-01",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein bewaffneter Mann verschanzte sich in einer Wohnung, konnte aber von Spezialeinsatzkräften unversehrt überwältigt werden.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/pm/4970/6328602",
-"confidence": 0.85,
-"item_id": "verified-incident-54"
-},
-{
-"dimension": "societal_safety",
-"severity": "minor",
-"title": "Buntmetalldiebstahl legt Teile eines Industrieparks lahm",
-"location": "Duisburg",
-"date": "2026-07-31",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Kriminelle entwendeten hochspannungsführende Kupferkabel aus einer Lagerhalle und richteten Sachschaden an.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.8,
-"item_id": "verified-incident-55"
-},
-{
-"dimension": "cyber_security",
-"severity": "moderate",
-"title": "Verdächtige Netzwerkaktivität in thüringischer Kommunalverwaltung festgestellt",
-"location": "Erfurt",
-"date": "2026-08-02",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "IT-Forensiker isolierten betroffene Server, um einen drohenden Datenabfluss durch Erpressersoftware abzuwehren.",
-"source": "Kommunaler Notbetrieb",
-"url": "https://kommunaler-notbetrieb.de/",
-"confidence": 0.8,
-"item_id": "verified-incident-56"
-},
-{
-"dimension": "societal_safety",
-"severity": "severe",
-"title": "Razzia gegen Schleusernetzwerk in mehreren NRW-Städten",
-"location": "Düsseldorf",
-"date": "2026-07-21",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Die Bundespolizei durchsuchte zahlreiche Objekte und vollstreckte mehrere Haftbefehle gegen mutmaßliche Bandenmitglieder.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
-"confidence": 0.9,
-"item_id": "verified-incident-57"
-},
-{
-"dimension": "societal_safety",
-"severity": "moderate",
-"title": "Großbrand in Lagerhalle in Leipzig-Lindenau",
-"location": "Leipzig",
-"date": "2026-08-17",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Ein Feuer in einem Gewerbegebiet löste einen stundenlangen Löscheinsatz und Warnmeldungen für Anwohner aus.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.85,
-"item_id": "verified-incident-58"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Sabotage an Bahnsignalanlagen im Großraum Magdeburg",
-"location": "Magdeburg",
-"date": "2026-07-14",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Durchtrennte Steuerkabel führten zu Zugausfällen im Regionalverkehr und lösten Ermittlungen des Staatsschutzes aus.",
-"source": "Deutschlandfunk",
-"url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-"confidence": 0.85,
-"item_id": "verified-incident-59"
-},
-{
-"dimension": "critical_infrastructure",
-"severity": "moderate",
-"title": "Polizeieinsatz nach verdächtigem Gepäckstück am Flughafen Düsseldorf",
-"location": "Düsseldorf",
-"date": "2026-08-27",
-"casualties": {
-"injured": 0,
-"deaths": 0
-},
-"summary": "Teile eines Terminals wurden kurzzeitig abgesperrt, bis Entschärfer des Bundeskriminalamts Entwarnung geben konnten.",
-"source": "Presseportal",
-"url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
-"confidence": 0.85,
-"item_id": "verified-incident-60"
-}
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "critical",
+    "title": "Mutmaßliche Sabotage-Aktion gegen deutsches Stromnetz mit Sprengstofffunden",
+    "location": "Niederzier",
+    "date": "2026-09-06",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Spezialeinsatzkräfte und Ermittler suchen nach mehreren versuchten Sabotageakten gegen Umspannwerke und Sprengstofffunden nach einem flüchtigen Tatverdächtigen.",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
+    "confidence": 0.95,
+    "item_id": "verified-incident-1"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Explosion eines unbekannten Gegenstands nahe Augsburger Hauptbahnhof",
+    "location": "Augsburg",
+    "date": "2026-09-02",
+    "casualties": {
+      "injured": 2,
+      "deaths": 0
+    },
+    "summary": "In einer Gebäudepassage nahe des Hauptbahnhofs explodierte nachts ein Gegenstand, wodurch zwei zufällige Passanten Knalltraumata erlitten.",
+    "source": "Radio Bamberg",
+    "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-2"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "moderate",
+    "title": "Anklage gegen mutmaßliche Unterstützer rechtsextremer Terrorvereinigung",
+    "location": "Jena",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Bundesanwaltschaft erhob vor dem Thüringer Oberlandesgericht Anklage gegen Jugendliche wegen Verdachts der Unterstützung einer rechtsextremistischen Gruppe.",
+    "source": "ZEIT Online",
+    "url": "https://www.zeit.de/politik/deutschland/2026-09/letzte-verteidigungswelle-rechtsextreme-terrorgruppe-hamburg-bundesanwaltschaft-gxe",
+    "confidence": 0.9,
+    "item_id": "verified-incident-3"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Großevakuierung in Wilhelmshaven nach Bombenfund im Marinearsenal",
+    "location": "Wilhelmshaven",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Wegen der Entschärfung einer Weltkriegsbombe im Marinearsenal mussten rund 13.600 Anwohner ihre Wohnungen vorübergehend verlassen.",
+    "source": "Stadt Wilhelmshaven",
+    "url": "https://www.wilhelmshaven.de/Aktuelles/69743-Bombenfund-im-Marinearsenal%3A-gro%C3%9Fe-Evakuierung-am-Dienstagmorge.html",
+    "confidence": 0.95,
+    "item_id": "verified-incident-4"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "minor",
+    "title": "Gezielte Phishing-Welle durch gefälschte Gewinnspiele im Raum Wietze",
+    "location": "Wietze",
+    "date": "2026-09-01",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Kriminelle versuchten über manipulierte Gewinnspiel-E-Mails im Landkreis Celle vertrauliche Bürger- und Zugangsdaten abzugreifen.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/59457/6343209",
+    "confidence": 0.85,
+    "item_id": "verified-incident-5"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "critical",
+    "title": "Erpresserischer Cyberangriff auf das IT-Landesnetz der Berliner Verwaltung",
+    "location": "Berlin",
+    "date": "2026-08-30",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Hacker-Gruppe Rhysida erbeutete Terabytes vertraulicher Daten aus Berliner Senatsverwaltungen und forderte Millionenzahlungen in Bitcoin.",
+    "source": "Tagesspiegel",
+    "url": "https://www.tagesspiegel.de/berlin/dpa-cyberattacke-auf-berliner-landesnetz-kriminelle-konnten-burger-mit-gestohlenen-daten-erpressen-15996898.html",
+    "confidence": 0.95,
+    "item_id": "verified-incident-6"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme eines mutmaßlichen Drogenhändlers durch Videobeobachtung",
+    "location": "Dortmund",
+    "date": "2026-08-28",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Mithilfe polizeilicher Live-Videoüberwachung in der Nordstadt konnte ein Straßenhändler direkt beim Drogenverkauf festgenommen werden.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.85,
+    "item_id": "verified-incident-7"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Kriminalpolizeiliche Durchsuchung in Adendorf führt zu Betäubungsmittelfund",
+    "location": "Adendorf",
+    "date": "2026-08-24",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ermittler durchsuchten mit Diensthunden ein Wohngebäude im Landkreis Lüneburg und stellten Marihuana sowie weitere Beweismittel sicher.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.85,
+    "item_id": "verified-incident-8"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Festnahme im Stadtteil Nied nach tödlichem Messerangriff",
+    "location": "Frankfurt am Main",
+    "date": "2026-08-20",
+    "casualties": {
+      "injured": 0,
+      "deaths": 1
+    },
+    "summary": "Nach intensiver Fahndung zum Tötungsdelikt an einem 24-Jährigen konnte die Polizei den mutmaßlichen Messerstecher ermitteln.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6337091",
+    "confidence": 0.9,
+    "item_id": "verified-incident-9"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Verkehrskontrolle in Waiblingen deckt Kokainhandel auf",
+    "location": "Waiblingen",
+    "date": "2026-08-19",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Bei einer Routineüberprüfung eines Fahrzeugs fanden Polizeibeamte Kokain bei einem 21-jährigen Mitfahrer und erließen Haftbefehl.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-10"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme eines mutmaßlichen Drogenhändlers in Warburg",
+    "location": "Warburg",
+    "date": "2026-08-19",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Bei der Durchsuchung einer Wohnung in der Innenstadt stellten Ermittler der Polizei Höxter Rauschgift sicher und nahmen den Bewohner fest.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-11"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Messerattacke in der Frankfurter Gebeschusstraße führt zu Festnahme",
+    "location": "Frankfurt am Main",
+    "date": "2026-08-18",
+    "casualties": {
+      "injured": 1,
+      "deaths": 0
+    },
+    "summary": "Nach Hinweisen auf eine Auseinandersetzung und mutmaßlichen Drogenhandel nahm die Polizei zwei Tatverdächtige vorläufig fest.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.85,
+    "item_id": "verified-incident-12"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme nach Rauschgifthandel am Waageplatz Göttingen",
+    "location": "Göttingen",
+    "date": "2026-08-12",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Einsatzkräfte kontrollierten einen 22-Jährigen auf einem öffentlichen Platz und stellten verkaufsfertige Betäubungsmittel sicher.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-13"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Wohnungsdurchsuchung deckt Kokainhandel in Essener Innenstadt auf",
+    "location": "Essen",
+    "date": "2026-08-13",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Polizeibeamte durchsuchten ein Objekt im Bereich der Viehofer Straße und nahmen einen 35-jährigen Tatverdächtigen fest.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-14"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "severe",
+    "title": "Kollision eines Fahrgastkatamarans mit der Außenmole im Konstanzer Hafen",
+    "location": "Konstanz",
+    "date": "2026-08-14",
+    "casualties": {
+      "injured": 6,
+      "deaths": 0
+    },
+    "summary": "Ein Personenschiff prallte aus ungeklärter Ursache gegen die Hafenmole, was zu mehreren Verletzten und Ermittlungen der Wasserschutzpolizei führte.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/110981/6333627",
+    "confidence": 0.9,
+    "item_id": "verified-incident-15"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Schwerer Verkehrsunfall zwischen Streifenwagen und Linienbus",
+    "location": "Frankfurt am Main",
+    "date": "2026-08-09",
+    "casualties": {
+      "injured": 6,
+      "deaths": 0
+    },
+    "summary": "Im Höchster Kreuzungsbereich stieß ein auf einer Einsatzfahrt befindlicher Streifenwagen mit einem Bus zusammen.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.85,
+    "item_id": "verified-incident-16"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Festnahme nach gefährlicher Körperverletzung mit Messer in Sachsenhausen",
+    "location": "Frankfurt am Main",
+    "date": "2026-08-08",
+    "casualties": {
+      "injured": 1,
+      "deaths": 0
+    },
+    "summary": "In der Nacht wurde ein 24-jähriger Mann festgenommen, der im Verdacht steht, sein Opfer im Streit mit einem Messer schwer verletzt zu haben.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6329490",
+    "confidence": 0.85,
+    "item_id": "verified-incident-17"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Schwerer Cyberangriff lahmlegt Verwaltung der Verbandsgemeinde Rhein-Nahe",
+    "location": "Bingen am Rhein",
+    "date": "2026-08-07",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein externer Cyberangriff sperrte Beschäftigte aus den Systemen aus und führte zu massiven Einschränkungen der Bürgerdienste.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.9,
+    "item_id": "verified-incident-18"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Mehrere tätliche Angriffe auf Polizeikräfte im Stadtgebiet Frankfurt",
+    "location": "Frankfurt am Main",
+    "date": "2026-08-05",
+    "casualties": {
+      "injured": 6,
+      "deaths": 0
+    },
+    "summary": "Bei verschiedenen Festnahmen und Kontrollen leisteten mehrere Personen Widerstand, wobei sechs Polizeibeamte leicht verletzt wurden.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6328602",
+    "confidence": 0.85,
+    "item_id": "verified-incident-19"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Schwerer Verkehrsunfall mit Landwirtschaftsfahrzeug auf der Kreisstraße 17",
+    "location": "Ahaus",
+    "date": "2026-08-04",
+    "casualties": {
+      "injured": 2,
+      "deaths": 0
+    },
+    "summary": "Auf der K17 kollidierten mehrere Fahrzeuge mit einer Traktor-Kombination, was eine temporäre Vollsperrung erforderlich machte.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.8,
+    "item_id": "verified-incident-20"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Tödlicher Absturz eines Leichtflugzeugs bei Ganderkesee",
+    "location": "Ganderkesee",
+    "date": "2026-07-26",
+    "casualties": {
+      "injured": 0,
+      "deaths": 2
+    },
+    "summary": "Ein zweisitziges Leichtflugzeug stürzte im Stettiner Weg ab, wobei beide Insassen noch an der Unfallstelle verstarben.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.9,
+    "item_id": "verified-incident-21"
+  },
+  {
+    "dimension": "political_stability",
+    "severity": "moderate",
+    "title": "Umfassende Kabinettsumbildung im Bundeskanzleramt entfacht politische Debatte",
+    "location": "Berlin",
+    "date": "2026-07-29",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Kritik an der Verzögerung und der Rechtmäßigkeit der Umbesetzung mehrerer Bundesministerien sorgte für politische Spannungen.",
+    "source": "Wikipedia / Bundesregierung",
+    "url": "https://de.wikipedia.org/wiki/Kabinett_Merz",
+    "confidence": 0.9,
+    "item_id": "verified-incident-22"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Tödliche Messerattacke nach Streit am U-Bahnhof Berne",
+    "location": "Hamburg",
+    "date": "2026-07-25",
+    "casualties": {
+      "injured": 1,
+      "deaths": 1
+    },
+    "summary": "Am späten Samstagabend eskalierte eine Auseinandersetzung zwischen mehreren Männern an der Haltestelle Berne tödlich.",
+    "source": "Presseportal",
+    "url": "https://www.sandrokappe.de/toedliche-messerattacke-am-u-bahnhof-berne-am-25-juli-2026/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-23"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Kompletter Ausfall des Niederrhein-Netzes durch beschädigtes Telekom-Kabel",
+    "location": "Kamp-Lintfort",
+    "date": "2026-07-23",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein defektes Verzweigerkabel legte das kommunale Rechenzentrum Niederrhein für mehrere Stunden vollständig lahm.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-24"
+  },
+  {
+    "dimension": "political_stability",
+    "severity": "moderate",
+    "title": "Angekündigter Rücktritt von Jens Spahn sorgt für Nachfolgedebatte in der Union",
+    "location": "Berlin",
+    "date": "2026-07-22",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Rücktrittsentscheidung löste parteiinterne Spekulationen und Diskussionen über die Neubesetzung wichtiger Spitzenämter aus.",
+    "source": "WEB.DE",
+    "url": "https://web.de/magazine/politik/inland/ruecktritt-offene-fragen-42530778",
+    "confidence": 0.85,
+    "item_id": "verified-incident-25"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Verletzte Polizeibeamte bei Festnahmen in Frankfurt-Westend",
+    "location": "Frankfurt am Main",
+    "date": "2026-07-21",
+    "casualties": {
+      "injured": 3,
+      "deaths": 0
+    },
+    "summary": "Bei Kontrollen wegen mutmaßlichen Betäubungsmittelhandels leisteten Verdächtige heftigen Widerstand und verletzten Einsatzkräfte.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6319534",
+    "confidence": 0.8,
+    "item_id": "verified-incident-26"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Cyberangriff auf den städtischen IT-Dienstleister Lecos in Leipzig",
+    "location": "Leipzig",
+    "date": "2026-07-20",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein gezielter Hackerangriff führte zum Abfluss technischer Verzeichnisdaten mehrerer kommunaler Eigenbetriebe.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-27"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme nach queerfeindlichen Übergriffen im Allerheiligenviertel",
+    "location": "Frankfurt am Main",
+    "date": "2026-07-18",
+    "casualties": {
+      "injured": 1,
+      "deaths": 0
+    },
+    "summary": "In der Frankfurter Innenstadt ereigneten sich zwei diskriminierende Attacken, woraufhin die Polizei einen Tatverdächtigen festnahm.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6316969",
+    "confidence": 0.85,
+    "item_id": "verified-incident-28"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "severe",
+    "title": "Ransomware-Befall zwingt Stadtverwaltung Wriezen vom Netz",
+    "location": "Wriezen",
+    "date": "2026-07-17",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Entdeckte Verschlüsselungstrojaner veranlassten die IT-Sicherheit, alle Systeme der Verwaltung präventiv zu trennen.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-29"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme nach Raubüberfall in Frankfurter Hotelzimmer",
+    "location": "Frankfurt am Main",
+    "date": "2026-07-17",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Nach einem nächtlichen Raub im Stadtteil Gallus konnte die Polizei einen 19-jährigen Tatverdächtigen an seiner Adresse stellen.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6316639",
+    "confidence": 0.8,
+    "item_id": "verified-incident-30"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "DDoS-Angriff legt Onlinedienste der Landeshauptstadt Wiesbaden lahm",
+    "location": "Wiesbaden",
+    "date": "2026-07-16",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Kriminelle überfluteten die Webserver der Stadt mit Datenanfragen, weshalb Bürgerdienste stundenlang ausfielen.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-31"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Hackerangriff auf die Webserver-Infrastruktur der Stadt Döbeln",
+    "location": "Döbeln",
+    "date": "2026-07-15",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Stadtverwaltung Döbeln nahm ihre offizielle Webseite nach Entdeckung einer Cyberattacke für über eine Woche vom Netz.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.85,
+    "item_id": "verified-incident-32"
+  },
+  {
+    "dimension": "terrorism_extremism",
+    "severity": "severe",
+    "title": "BKA nimmt zwei mutmaßliche IS-Mitglieder im Kreis Stormarn fest",
+    "location": "Stormarn",
+    "date": "2026-07-09",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Auf Grund von Haftbefehlen der Bundesanwaltschaft wurden zwei Iraker wegen Terroreinbindung und Kriegsverbrechen festgenommen.",
+    "source": "Bundeskriminalamt",
+    "url": "https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Kurzmeldungen/260709_GBA_PM_Festnahme_IS.html",
+    "confidence": 0.95,
+    "item_id": "verified-incident-33"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Zivilkräfte nehmen mutmaßlichen Drogenhändler in Düren fest",
+    "location": "Düren",
+    "date": "2026-09-03",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Nach der Beobachtung einer Übergabe im Bereich Zur Kesselkaul stellte die Polizei Kokain und Bargeld sicher.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-39"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Festnahme eines mutmaßlichen Drogendealers im Bereich Rastatt",
+    "location": "Rastatt",
+    "date": "2026-09-04",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Polizei Offenburg nahm einen Tatverdächtigen fest und beschlagnahmte verkaufsfertige Rauschmittel.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-40"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Anstieg Phishing-Aktivitäten zum Schuljahresbeginn an Bildungseinrichtungen",
+    "location": null,
+    "date": "2026-08-20",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Sicherheitsforscher registrierten eine Welle gefälschter Bildungsdomains zur Abfischnung von Schüler- und Lehrerdaten.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/pm/14890/6336746",
+    "confidence": 0.8,
+    "item_id": "verified-incident-41"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "minor",
+    "title": "Fortinet-Firewall Angriff im Rahmen der FortiBleed Kampagne",
+    "location": "Stadtlohn",
+    "date": "2026-07-10",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein opportunistischer Hackerangriff auf die Sicherheitsinfrastruktur der Feuerwehr wurde frühzeitig abgefangen.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-42"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Tödlicher Badeunfall eines 18-Jährigen in Friedland",
+    "location": "Friedland",
+    "date": "2026-07-30",
+    "casualties": {
+      "injured": 0,
+      "deaths": 1
+    },
+    "summary": "Ein junger Mann geriet beim Schwimmen im See in Not und ertrank trotz sofortiger Rettungsversuche.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.85,
+    "item_id": "verified-incident-43"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Einbruchsserie in Kölner Wohnquartier führt zu Festnahme",
+    "location": "Köln",
+    "date": "2026-08-15",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Aufmerksame Anwohner alarmierten die Polizei, die Einbrecher auf frischer Tat im Objekt stellen konnte.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-44"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Geldautomatensprengung verursacht erheblichen Gebäudeschaden",
+    "location": "Recklinghausen",
+    "date": "2026-08-18",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Unbekannte Täter sprengten in den frühen Morgenstunden einen Geldautomaten einer Bankfiliale und flüchteten mit einem Sportwagen.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-45"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Großrazzia des Zolls gegen Schwarzarbeit auf Berliner Großbaustellen",
+    "location": "Berlin",
+    "date": "2026-08-25",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Hunderte Zollbeamte überprüften Baufirmen im Großraum Berlin wegen des Verdachts des gewerbsmäßigen Betrugs.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.85,
+    "item_id": "verified-incident-46"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Auseinandersetzung im Stuttgarter Hauptbahnhof führt zu Polizeieinsatz",
+    "location": "Stuttgart",
+    "date": "2026-08-12",
+    "casualties": {
+      "injured": 1,
+      "deaths": 0
+    },
+    "summary": "Bundespolizisten überwältigten einen Randalierer, nachdem dieser Bahnreisende belästigt und angegriffen hatte.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-47"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Kabelbrand führt zu Teilausfall im S-Bahn-Netz München",
+    "location": "München",
+    "date": "2026-08-03",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein technischer Defekt an einem Kabelstrang legte wichtige Signalverbindungen auf der Stammstrecke stundenlang lahm.",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
+    "confidence": 0.85,
+    "item_id": "verified-incident-48"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Polizeiwarnung vor Welle von Schockanrufen im Nürnberger Land",
+    "location": "Nürnberg",
+    "date": "2026-08-29",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Telefonbetrüger gaben sich gegenüber Senioren als Polizeibeamte aus, um Kautionszahlungen zu erpressen.",
+    "source": "Radio Bamberg",
+    "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-49"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Großbrand in Recyclingbetrieb erfordert stundenlangen Feuerwehreinsatz",
+    "location": "Hamm",
+    "date": "2026-08-21",
+    "casualties": {
+      "injured": 1,
+      "deaths": 0
+    },
+    "summary": "Eine massive Rauchentwicklung führte zur Warnung der Bevölkerung und vorübergehenden Sperrung angrenzender Verkehrswege.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.85,
+    "item_id": "verified-incident-50"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Bundespolizei stoppt Schleuserfahrzeug an der deutsch-polnischen Grenze",
+    "location": "Frankfurt (Oder)",
+    "date": "2026-08-10",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Einsatzkräfte entdeckten bei einer Kontrolle mehrere unerlaubt eingereiste Personen in einem Transporter.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-51"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "minor",
+    "title": "Warnung vor Phishing-Mails im Namen von Finanzbehörden in Bremen",
+    "location": "Bremen",
+    "date": "2026-08-14",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Cybercrime-Zentrale warnte vor gefälschten Benachrichtigungen zur angeblichen Steuerrückzahlung.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/pm/14890/6336746",
+    "confidence": 0.8,
+    "item_id": "verified-incident-52"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Oberleitungsschaden blockiert Hauptbahnstrecke nahe Hannover",
+    "location": "Hannover",
+    "date": "2026-07-28",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein beschädigter Stromabnehmer beschädigte die Oberleitung, was zu erheblichen Verspätungen im Fernverkehr führte.",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
+    "confidence": 0.85,
+    "item_id": "verified-incident-53"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "SEK-Einsatz nach Messerbedrohung in Mannheimer Innenstadt",
+    "location": "Mannheim",
+    "date": "2026-08-01",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein bewaffneter Mann verschanzte sich in einer Wohnung, konnte aber von Spezialeinsatzkräften unversehrt überwältigt werden.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/pm/4970/6328602",
+    "confidence": 0.85,
+    "item_id": "verified-incident-54"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "minor",
+    "title": "Buntmetalldiebstahl legt Teile eines Industrieparks lahm",
+    "location": "Duisburg",
+    "date": "2026-07-31",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Kriminelle entwendeten hochspannungsführende Kupferkabel aus einer Lagerhalle und richteten Sachschaden an.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.8,
+    "item_id": "verified-incident-55"
+  },
+  {
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "title": "Verdächtige Netzwerkaktivität in thüringischer Kommunalverwaltung festgestellt",
+    "location": "Erfurt",
+    "date": "2026-08-02",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "IT-Forensiker isolierten betroffene Server, um einen drohenden Datenabfluss durch Erpressersoftware abzuwehren.",
+    "source": "Kommunaler Notbetrieb",
+    "url": "https://kommunaler-notbetrieb.de/",
+    "confidence": 0.8,
+    "item_id": "verified-incident-56"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "severe",
+    "title": "Razzia gegen Schleusernetzwerk in mehreren NRW-Städten",
+    "location": "Düsseldorf",
+    "date": "2026-07-21",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Die Bundespolizei durchsuchte zahlreiche Objekte und vollstreckte mehrere Haftbefehle gegen mutmaßliche Bandenmitglieder.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Drogenhandel",
+    "confidence": 0.9,
+    "item_id": "verified-incident-57"
+  },
+  {
+    "dimension": "societal_safety",
+    "severity": "moderate",
+    "title": "Großbrand in Lagerhalle in Leipzig-Lindenau",
+    "location": "Leipzig",
+    "date": "2026-08-17",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Ein Feuer in einem Gewerbegebiet löste einen stundenlangen Löscheinsatz und Warnmeldungen für Anwohner aus.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.85,
+    "item_id": "verified-incident-58"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Sabotage an Bahnsignalanlagen im Großraum Magdeburg",
+    "location": "Magdeburg",
+    "date": "2026-07-14",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Durchtrennte Steuerkabel führten zu Zugausfällen im Regionalverkehr und lösten Ermittlungen des Staatsschutzes aus.",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
+    "confidence": 0.85,
+    "item_id": "verified-incident-59"
+  },
+  {
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "title": "Polizeieinsatz nach verdächtigem Gepäckstück am Flughafen Düsseldorf",
+    "location": "Düsseldorf",
+    "date": "2026-08-27",
+    "casualties": {
+      "injured": 0,
+      "deaths": 0
+    },
+    "summary": "Teile eines Terminals wurden kurzzeitig abgesperrt, bis Entschärfer des Bundeskriminalamts Entwarnung geben konnten.",
+    "source": "Presseportal",
+    "url": "https://www.presseportal.de/blaulicht/st/Schiffsungl%C3%BCck",
+    "confidence": 0.85,
+    "item_id": "verified-incident-60"
+  }
 ]
