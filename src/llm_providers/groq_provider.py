@@ -24,7 +24,7 @@ class GroqProvider:
         if not api_key:
             raise RuntimeError("GROQ_API_KEY is not set")
         self.client = Groq(api_key=api_key)
-        self.model = model or os.environ.get("GROQ_MODEL", "llama-3.1-70b-versatile")
+        self.model = model or os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
 
     @with_backoff(max_retries=5, base_delay=2.0)
     def _call(self, user_content: str) -> str:
