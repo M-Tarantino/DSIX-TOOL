@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T19:01:07.101303+00:00",
-  "synthesis_text": "Die Sicherheitslage in Deutschland wird derzeit von einer Welle koordinierter Sabotageakte an Strom-Umspannwerken im Süden und Norden, kombiniert mit terroristischen Anschlägen auf öffentliche Verkehrsknotenpunkte, geprägt. Gleichzeitig haben cyberkriminelle Gruppen massive Datenexfiltrationen und Erpressungen gegen Berliner Verwaltungsnetze durchgeführt, während die Zahl von Schuss- und Messerattacken, insbesondere im Kontext organisierter Kriminalität, deutlich ansteigt. Diese Entwicklungen verdeutlichen ein breites Gefahrenprofil, das sowohl kritische Infrastruktur, digitale Systeme als auch die öffentliche Sicherheit in mehreren Regionen gleichzeitig bedroht.",
+  "generated_at": "2026-09-06T20:12:25.990713+00:00",
+  "synthesis_text": "In den letzten Tagen dominieren koordinierte Angriffe auf kritische Infrastruktur und digitale Systeme das Sicherheitsbild: Mehrere Umspannwerke in Nord‑ und Ostdeutschland wurden mit Spreng- und Abschussvorrichtungen sabotiert, während Hacker‑Gruppen wie Rhysida massive Datenabgriffe und Erpressungen gegen Berliner Behörden verübten. Parallel dazu steigt die Gewalt im öffentlichen Raum – von Handgranaten- und unbekannten Sprengstoffexplosionen bis hin zu einer Welle von Schuss- und Messerattacken, die teilweise im Kontext organisierter Kriminalität steht. Diese Kombination aus physischer Sabotage, terroristischer Bedrohung und Cyber‑Erpressung stellt die Behörden vor eine breit gefächerte, hochgradig kritische Lage.",
   "items": [
     {
       "title": "Mutmaßliche Sabotage-Aktion gegen deutsches Stromnetz mit Sprengstofffunden",
@@ -11,7 +11,7 @@
       "summary": "Spezialeinsatzkräfte und Ermittler suchen nach mehreren versuchten Sabotageakten gegen Umspannwerke und Sprengstofffunden nach einem flüchtigen Tatverdächtigen.",
       "source": "Deutschlandfunk",
       "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-      "weight": 33.65
+      "weight": 33.57
     },
     {
       "title": "Handgranaten-Explosion am Augsburger Hauptbahnhof (September 2026)",
@@ -22,7 +22,7 @@
       "summary": "Handgranate detonierte um 3:15 Uhr in Geschäftspassage am Augsburger Hauptbahnhof, verursachte Knalltraumata und Sachschäden an Fassaden. Täter unbekannt.",
       "source": "Radio Augsburg, Bayerisches Landeskriminalamt",
       "url": "https://www.radio-augsburg.de/explosion-in-augsburg-ermittler-bestaetigen-detonation-einer-handgranate-282696/",
-      "weight": 27.61
+      "weight": 27.54
     },
     {
       "title": "Erpresserischer Cyberangriff auf das IT-Landesnetz der Berliner Verwaltung",
@@ -33,7 +33,7 @@
       "summary": "Die Hacker-Gruppe Rhysida erbeutete Terabytes vertraulicher Daten aus Berliner Senatsverwaltungen und forderte Millionenzahlungen in Bitcoin.",
       "source": "Tagesspiegel",
       "url": "https://www.tagesspiegel.de/berlin/dpa-cyberattacke-auf-berliner-landesnetz-kriminelle-konnten-burger-mit-gestohlenen-daten-erpressen-15996898.html",
-      "weight": 23.8
+      "weight": 23.74
     },
     {
       "title": "Sabotageakte gegen Umspannwerke Brandenburg (September 2026)",
@@ -44,7 +44,7 @@
       "summary": "Unbekannte Täter platzierten mehrere Sprengvorrichtungen und selbstgebaute Flugkörper am Umspannwerk Turnow-Preilack, lösten zwei Kurzschlüsse aus. Terrorermittlungen eingeleitet.",
       "source": "Wikipedia, ZDF, Brandenburg Innenministerium",
       "url": "https://de.wikipedia.org/wiki/Sabotageakte_gegen_Umspannwerke_in_Deutschland_2026",
-      "weight": 13.51
+      "weight": 13.48
     },
     {
       "title": "Sabotageakte gegen Umspannwerke NRW (September 2026)",
@@ -55,7 +55,7 @@
       "summary": "Saboteure platzierten Abschussvorrichtungen an mehreren Umspannwerken in NRW, lösten Kurzschlüsse aus. Ermittlungen wegen verfassungsfeindlicher Sabotage und Terrorverdacht.",
       "source": "NZZ, NIEDERLAUSITZ aktuell, NRW Innenministerium",
       "url": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
-      "weight": 13.51
+      "weight": 13.48
     },
     {
       "title": "Schießereien-Serie September 2026 (Hamburg, Berlin, Duisburg, etc.)",
@@ -66,7 +66,7 @@
       "summary": "Innerhalb weniger Tage multiple Schusswaffentaten an mehreren Orten. In Hamburg zwei tödliche Schussverletzungen, weitere Vorfälle deutschlandweit dokumentiert.",
       "source": "Tichys Einblick",
       "url": "https://www.tichyseinblick.de/daili-es-sentials/neunormale-einzelfalltage-explosionen-schuesse-messergewalt/",
-      "weight": 13.51
+      "weight": 13.48
     },
     {
       "title": "Messerverletzungen in deutschen Kliniken Anstieg",
@@ -77,7 +77,7 @@
       "summary": "Messerverletzungen durch Gewalttaten nehmen in deutschen Kliniken spürbar zu, besonders in dichbesiedelten Städten.",
       "source": "Junge Freiheit",
       "url": "https://jungefreiheit.de/politik/deutschland/2026/messerattacken-treiben-zahl-schwerverletzter-in-deutschen-kliniken-hoch/",
-      "weight": 12.86
+      "weight": 12.83
     },
     {
       "title": "Schießereien im Kontext organisierter Kriminalität (Köln/NRW)",
@@ -88,7 +88,7 @@
       "summary": "In Erftstadt-Köttingen schossen Unbekannte auf Einfamilienhaus mit Erpressungshintergrund im OK-Milieu, weitere Schussattacken auf türkisches Café in Köln-Südstadt folgten.",
       "source": "ANSAGE",
       "url": "https://ansage.org/die-ichfreumichdrauf-sommerbilanz-2026/",
-      "weight": 12.24
+      "weight": 12.21
     },
     {
       "title": "Ransomware-Angriff Berlin (Rhysida) - Senatsverwaltungen",
@@ -99,7 +99,7 @@
       "summary": "Ransomware-Gruppe Rhysida erbeutete 5,8 Terabyte Behördendaten aus Berlins Senatsverwaltungen, forderte 30 Bitcoin Lösegeld und veröffentlichte Daten im Darknet.",
       "source": "Tech Insider Deutschland, BSI, Lulius",
       "url": "https://tech-insider.org/de/berlin-cyberangriff-rhysida-erpressung-2026/",
-      "weight": 7.62
+      "weight": 7.6
     },
     {
       "title": "Explosion eines unbekannten Gegenstands nahe Augsburger Hauptbahnhof",
@@ -110,7 +110,7 @@
       "summary": "In einer Gebäudepassage nahe des Hauptbahnhofs explodierte nachts ein Gegenstand, wodurch zwei zufällige Passanten Knalltraumata erlitten.",
       "source": "Radio Bamberg",
       "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
-      "weight": 6.31
+      "weight": 6.29
     }
   ]
 }
