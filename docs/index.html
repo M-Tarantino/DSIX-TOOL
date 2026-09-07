@@ -32,10 +32,17 @@
     <a href="https://www.verfassungsschutz.de/" target="_blank" rel="noopener">Verfassungsschutz</a>.
   </div>
 
+  <!-- SCORE CARD -->
   <section class="hero" aria-label="Current score">
-    <div class="hero-figures">
-      <div class="hero-score" id="heroScore">—</div>
-      <div class="hero-status" id="heroStatus">Loading</div>
+    <div class="hero-top">
+      <div class="hero-figures">
+        <div class="hero-score" id="heroScore">—</div>
+        <div class="hero-status" id="heroStatus">Loading</div>
+      </div>
+      <div class="hero-trend" id="heroTrend">
+        <span id="trendDirection">—</span>
+        <span id="trendValue">—</span>
+      </div>
     </div>
     <div class="scale" role="img" aria-label="Score scale from 0 to 100">
       <div class="scale-track">
@@ -57,41 +64,43 @@
     </div>
   </section>
 
-  <section class="about">
-    <h2 class="section-title">How it works</h2>
-    <p>
-      DSIX crawls 3 major German news sources every 6 hours, filters for security-relevant topics 
-      (terrorism, cyber attacks, infrastructure disruptions, political stability, public safety), 
-      and uses AI to structure incident data. The score is computed deterministically from incident severity 
-      and age — not AI-generated. See the 
-      <a href="https://github.com/M-Tarantino/DSIX-TOOL" target="_blank" rel="noopener">source code</a> 
-      for the full methodology.
-    </p>
-  </section>
-
+  <!-- DIMENSIONS -->
   <section class="dimensions" aria-label="Score by dimension">
     <h2 class="section-title">By dimension</h2>
     <div id="dimensionList" class="dimension-list"></div>
   </section>
 
-  <section class="trend" aria-label="Score trend">
-    <h2 class="section-title">Trend (90 days)</h2>
+  <!-- TREND CHART -->
+  <section class="trend" aria-label="Score trend (7 days)">
+    <h2 class="section-title">Trend (7 days)</h2>
     <svg id="trendChart" class="trend-chart" viewBox="0 0 640 120" preserveAspectRatio="none"></svg>
   </section>
 
-  <section class="top10" aria-label="Top 10 synthesis">
-    <h2 class="section-title">Top 10 Incidents</h2>
-    <div class="top10-synthesis" id="top10Synthesis">
-      <p class="empty-state">Not generated yet — runs alongside the scheduled crawl.</p>
+  <!-- LATEST INCIDENTS -->
+  <section class="latest" aria-label="Latest incidents">
+    <h2 class="section-title">Latest incidents</h2>
+    <div class="latest-grid">
+      <div class="latest-box">
+        <h3>Latest RSS <span class="count" id="rssCount">0</span></h3>
+        <div id="latestRss" class="incident-list"></div>
+      </div>
+      <div class="latest-box">
+        <h3>Latest Web <span class="count" id="webCount">0</span></h3>
+        <div id="latestWeb" class="incident-list"></div>
+      </div>
     </div>
-    <div id="top10List" class="incident-list"></div>
   </section>
 
-  <section class="incidents" aria-label="Recent incidents">
-    <h2 class="section-title">Recent incidents (last 60 days)</h2>
-    <div id="incidentList" class="incident-list">
-      <p class="empty-state">No incidents logged yet. The dashboard fills in as the scheduled crawl runs.</p>
-    </div>
+  <!-- TOP SINCE MIDNIGHT -->
+  <section class="top-midnight" aria-label="Most important since midnight">
+    <h2 class="section-title">Most important since midnight</h2>
+    <div id="topMidnight" class="incident-list"></div>
+  </section>
+
+  <!-- TOP 5 ALL TIME -->
+  <section class="top5" aria-label="Top 5 incidents">
+    <h2 class="section-title">Top 5 incidents (60 days)</h2>
+    <div id="top5List" class="incident-list"></div>
   </section>
 
   <footer class="footer">
@@ -105,11 +114,11 @@
         </p>
       </div>
       <div class="footer-section">
-        <h3>Data Sources</h3>
+        <h3>Updates</h3>
         <p>
-          <a href="https://www.bundesregierung.de/" target="_blank" rel="noopener">Bundesregierung</a> · 
-          <a href="https://www.deutschlandfunk.de/" target="_blank" rel="noopener">Deutschlandfunk</a> · 
-          <a href="https://www.tagesschau.de/" target="_blank" rel="noopener">Tagesschau</a>
+          RSS crawl: every 3 hours · 
+          Web search: every 12 hours · 
+          Rotation: daily 00:00 CET
         </p>
       </div>
       <div class="footer-section">
