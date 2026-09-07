@@ -69,6 +69,9 @@ def run(store: JsonStore | None = None) -> dict:
     window_days = config["rolling_window_days"]
     all_incidents = store.prune_old_incidents(window_days)
     store.prune_old_history(window_days)
+    
+    # Save recent incidents view directly for the frontend interface
+    store.save_recent_incidents(all_incidents)[span_3](start_span)[span_3](end_span)
     logger.info("%d incidents in the %d-day rolling window after cleanup", len(all_incidents), window_days)
 
     # 5. Deterministic scoring
