@@ -2,7 +2,7 @@ name: Rotate incidents (midnight Berlin)
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # 00:00 CET = 22:00 UTC (winter) / 21:00 UTC (summer)
+  #  - cron: '0 22 * * *'  # 00:00 CET = 22:00 UTC (winter) / 21:00 UTC (summer)
   workflow_dispatch:
 
 permissions:
