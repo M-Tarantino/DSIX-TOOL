@@ -1,36 +1,36 @@
 {
-  "overall_score": 47,
+  "overall_score": 48,
   "status": "Elevated",
-  "computed_at": "2026-09-06T20:12:25.989150+00:00",
+  "computed_at": "2026-09-07T03:46:36.237270+00:00",
   "window_days": 60,
   "dimensions": {
     "terrorism_extremism": {
       "label": "Terrorism & Extremism",
-      "score": 61.5,
+      "score": 63.1,
       "weight": 0.25,
-      "incidents_counted": 4
+      "incidents_counted": 3
     },
     "cyber_security": {
       "label": "Cyber Security",
-      "score": 39.1,
+      "score": 40.0,
       "weight": 0.2,
       "incidents_counted": 17
     },
     "critical_infrastructure": {
       "label": "Critical Infrastructure",
-      "score": 21.9,
+      "score": 23.2,
       "weight": 0.2,
       "incidents_counted": 10
     },
     "political_stability": {
       "label": "Political Stability",
-      "score": 97.0,
+      "score": 97.1,
       "weight": 0.2,
       "incidents_counted": 3
     },
     "societal_safety": {
       "label": "Societal Safety",
-      "score": 0.4,
+      "score": 1.9,
       "weight": 0.15,
       "incidents_counted": 35
     }

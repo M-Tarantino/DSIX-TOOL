@@ -512,22 +512,6 @@
     "item_id": "verified-incident-32"
   },
   {
-    "dimension": "terrorism_extremism",
-    "severity": "severe",
-    "title": "BKA nimmt zwei mutmaßliche IS-Mitglieder im Kreis Stormarn fest",
-    "location": "Stormarn",
-    "date": "2026-07-09",
-    "casualties": {
-      "injured": 0,
-      "deaths": 0
-    },
-    "summary": "Auf Grund von Haftbefehlen der Bundesanwaltschaft wurden zwei Iraker wegen Terroreinbindung und Kriegsverbrechen festgenommen.",
-    "source": "Bundeskriminalamt",
-    "url": "https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Kurzmeldungen/260709_GBA_PM_Festnahme_IS.html",
-    "confidence": 0.95,
-    "item_id": "verified-incident-33"
-  },
-  {
     "dimension": "societal_safety",
     "severity": "minor",
     "title": "Zivilkräfte nehmen mutmaßlichen Drogenhändler in Düren fest",
