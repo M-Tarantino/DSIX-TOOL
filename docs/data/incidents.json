@@ -1119,5 +1119,22 @@
     "source": "Deutschlandfunk - Nachrichten",
     "url": "https://www.deutschlandfunk.de/suche-im-hambacher-forst-nach-sabotage-verdaechtigem-endet-erfolglos-100.html",
     "item_id": "3aa4c354bf546d1f8c2a1215"
+  },
+  {
+    "is_incident": true,
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "location": "Saxony",
+    "date": "2026-09-07",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Police in Saxony discovered nine additional homemade explosive devices, indicating sabotage attempts targeting critical infrastructure.",
+    "confidence": 0.95,
+    "title": "Sabotageversuche - Weitere Sprengvorrichtungen in Sachsen gefunden",
+    "source": "Deutschlandfunk - Nachrichten",
+    "url": "https://www.deutschlandfunk.de/weitere-sprengvorrichtungen-in-sachsen-gefunden-100.html",
+    "item_id": "b8683ddb51fc963af0628a77"
   }
 ]
