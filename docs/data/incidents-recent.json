@@ -1153,5 +1153,22 @@
     "source": "Tagesschau - Alle Meldungen",
     "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
     "item_id": "370d6d38ddf123e510e5d171"
+  },
+  {
+    "is_incident": true,
+    "dimension": "cyber_security",
+    "severity": "moderate",
+    "location": "Berlin",
+    "date": "2026-09-07",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "A hacker attack targeted the Berlin municipal administration, prompting expert warnings despite officials saying no high‑security data was compromised.",
+    "confidence": 0.93,
+    "title": "Berlin - Nach Hackerangriff: IT-Experte warnt vor vorschneller Bewertung der Folgen - laut Senat keine Hochsicherheitsdaten betroffen",
+    "source": "Deutschlandfunk - Nachrichten",
+    "url": "https://www.deutschlandfunk.de/nach-hackerangriff-it-experte-warnt-vor-vorschneller-bewertung-der-folgen-laut-senat-keine-hochsiche-100.html",
+    "item_id": "2bb11036666d0e06a8a0f717"
   }
 ]
