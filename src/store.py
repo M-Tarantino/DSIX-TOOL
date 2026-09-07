@@ -4,10 +4,12 @@ Everything lives under docs/data/ so the same JSON files that the
 pipeline writes are the files GitHub Pages serves -- no separate
 "data" vs "public" copy to keep in sync.
 
-    docs/data/seen_ids.json    -> [str, ...]              dedup index
-    docs/data/incidents.json   -> [Incident, ...]          full incident log
-    docs/data/score.json       -> Score                    latest computed score
-    docs/data/history.json     -> [Score, ...]              score over time (trend)
+    docs/data/seen_ids.json         -> [str, ...]              dedup index
+    docs/data/incidents.json        -> [Incident, ...]          full incident log
+    docs/data/incidents-recent.json -> [Incident, ...]          recent incidents view
+    docs/data/score.json            -> Score                    latest computed score
+    docs/data/history.json          -> [Score, ...]              score over time (trend)
+    docs/data/top10.json            -> Top10                    top 10 synthesis
 
 Swap this module out for a database-backed one later without touching
 ingest/extract/scoring -- they only depend on the methods below.
@@ -83,6 +85,9 @@ class JsonStore:
         if len(kept) != len(incidents):
             self._write("incidents.json", kept)
         return kept
+
+    def save_recent_incidents(self, incidents: list[dict]) -> None:
+        self._write("incidents-recent.json", incidents)
 
     # -- score / history --------------------------------------------------
     def save_score(self, score: dict) -> None:
