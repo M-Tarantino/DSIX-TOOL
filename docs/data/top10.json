@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:46:36.239940+00:00",
-  "synthesis_text": "Aktuell steht die innere Sicherheit Deutschlands unter erheblichem Druck: Eine Welle koordinierter Sabotageakte richtet sich gezielt gegen das Stromnetz in mehreren Bundesländern, während gleichzeitig schwerwiegende Cyberangriffe auf zentrale Verwaltungsdaten in Berlin erfolgten. Parallel dazu häufen sich gewaltsame Vorfälle im öffentlichen Raum – von Granatenexplosionen an Bahnhöfen über Schießereien in Großstädten bis hin zu zunehmenden Messerattacken in Kliniken – teils im Kontext organisierter Kriminalität. Diese Mischung aus physischer Infrastrukturgefährdung, digitaler Erpressung und eskalierender Gewalt führt zu einer angespannten Sicherheitslage, die ein umfassendes koordiniertes Gegenmaßnahmen-Management erfordert.",
+  "generated_at": "2026-09-07T07:14:32.996220+00:00",
+  "synthesis_text": "In den letzten Tagen dominieren koordinierte Angriffe auf die kritische Infrastruktur, insbesondere Sabotage an Umspannwerken in mehreren Bundesländern, sowie ein stark eskalierender Anschlag auf das Berliner IT‑Landesnetz durch die Ransomware‑Gruppe Rhysida, die massive Datenmengen erbeutet und hohe Lösegelder fordert. Parallel dazu häufen sich gewaltsame Vorfälle im öffentlichen Raum – von Handgranatenexplosionen bis zu einer Serie von Schussereien und zunehmenden Messerattacken in Kliniken – die teils im Kontext organisierter Kriminalität stehen. Diese Kombination aus physischer Zerstörung, cyber‑basiertem Erpressungsdruck und eskalierender Waffengewalt prägt das aktuelle Sicherheitslage‑Bild Deutschlands.",
   "items": [
     {
       "title": "Mutmaßliche Sabotage-Aktion gegen deutsches Stromnetz mit Sprengstofffunden",
@@ -11,7 +11,7 @@
       "summary": "Spezialeinsatzkräfte und Ermittler suchen nach mehreren versuchten Sabotageakten gegen Umspannwerke und Sprengstofffunden nach einem flüchtigen Tatverdächtigen.",
       "source": "Deutschlandfunk",
       "url": "https://www.deutschlandfunk.de/suche-nach-tatverdaechtigem-geht-weiter-102.html",
-      "weight": 33.05
+      "weight": 32.82
     },
     {
       "title": "Handgranaten-Explosion am Augsburger Hauptbahnhof (September 2026)",
@@ -22,7 +22,7 @@
       "summary": "Handgranate detonierte um 3:15 Uhr in Geschäftspassage am Augsburger Hauptbahnhof, verursachte Knalltraumata und Sachschäden an Fassaden. Täter unbekannt.",
       "source": "Radio Augsburg, Bayerisches Landeskriminalamt",
       "url": "https://www.radio-augsburg.de/explosion-in-augsburg-ermittler-bestaetigen-detonation-einer-handgranate-282696/",
-      "weight": 27.11
+      "weight": 26.92
     },
     {
       "title": "Erpresserischer Cyberangriff auf das IT-Landesnetz der Berliner Verwaltung",
@@ -33,7 +33,7 @@
       "summary": "Die Hacker-Gruppe Rhysida erbeutete Terabytes vertraulicher Daten aus Berliner Senatsverwaltungen und forderte Millionenzahlungen in Bitcoin.",
       "source": "Tagesspiegel",
       "url": "https://www.tagesspiegel.de/berlin/dpa-cyberattacke-auf-berliner-landesnetz-kriminelle-konnten-burger-mit-gestohlenen-daten-erpressen-15996898.html",
-      "weight": 23.37
+      "weight": 23.2
     },
     {
       "title": "Sabotageakte gegen Umspannwerke Brandenburg (September 2026)",
@@ -44,7 +44,7 @@
       "summary": "Unbekannte Täter platzierten mehrere Sprengvorrichtungen und selbstgebaute Flugkörper am Umspannwerk Turnow-Preilack, lösten zwei Kurzschlüsse aus. Terrorermittlungen eingeleitet.",
       "source": "Wikipedia, ZDF, Brandenburg Innenministerium",
       "url": "https://de.wikipedia.org/wiki/Sabotageakte_gegen_Umspannwerke_in_Deutschland_2026",
-      "weight": 13.27
+      "weight": 13.18
     },
     {
       "title": "Sabotageakte gegen Umspannwerke NRW (September 2026)",
@@ -55,7 +55,7 @@
       "summary": "Saboteure platzierten Abschussvorrichtungen an mehreren Umspannwerken in NRW, lösten Kurzschlüsse aus. Ermittlungen wegen verfassungsfeindlicher Sabotage und Terrorverdacht.",
       "source": "NZZ, NIEDERLAUSITZ aktuell, NRW Innenministerium",
       "url": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
-      "weight": 13.27
+      "weight": 13.18
     },
     {
       "title": "Schießereien-Serie September 2026 (Hamburg, Berlin, Duisburg, etc.)",
@@ -66,7 +66,7 @@
       "summary": "Innerhalb weniger Tage multiple Schusswaffentaten an mehreren Orten. In Hamburg zwei tödliche Schussverletzungen, weitere Vorfälle deutschlandweit dokumentiert.",
       "source": "Tichys Einblick",
       "url": "https://www.tichyseinblick.de/daili-es-sentials/neunormale-einzelfalltage-explosionen-schuesse-messergewalt/",
-      "weight": 13.27
+      "weight": 13.18
     },
     {
       "title": "Messerverletzungen in deutschen Kliniken Anstieg",
@@ -77,7 +77,7 @@
       "summary": "Messerverletzungen durch Gewalttaten nehmen in deutschen Kliniken spürbar zu, besonders in dichbesiedelten Städten.",
       "source": "Junge Freiheit",
       "url": "https://jungefreiheit.de/politik/deutschland/2026/messerattacken-treiben-zahl-schwerverletzter-in-deutschen-kliniken-hoch/",
-      "weight": 12.63
+      "weight": 12.54
     },
     {
       "title": "Schießereien im Kontext organisierter Kriminalität (Köln/NRW)",
@@ -88,7 +88,18 @@
       "summary": "In Erftstadt-Köttingen schossen Unbekannte auf Einfamilienhaus mit Erpressungshintergrund im OK-Milieu, weitere Schussattacken auf türkisches Café in Köln-Südstadt folgten.",
       "source": "ANSAGE",
       "url": "https://ansage.org/die-ichfreumichdrauf-sommerbilanz-2026/",
-      "weight": 12.02
+      "weight": 11.93
+    },
+    {
+      "title": "Nordhein-Westfalen - Suche im Hambacher Forst nach Sabotage-Verdächtigem endet erfolglos",
+      "dimension": "critical_infrastructure",
+      "severity": "moderate",
+      "location": "Hambacher Forst, North Rhine-Westphalia",
+      "date": "2026-09-06",
+      "summary": "Police ended a large‑scale search for a suspect believed to have carried out sabotage attacks on electricity transmission lines in the Hambacher Forst area.",
+      "source": "Deutschlandfunk - Nachrichten",
+      "url": "https://www.deutschlandfunk.de/suche-im-hambacher-forst-nach-sabotage-verdaechtigem-endet-erfolglos-100.html",
+      "weight": 7.5
     },
     {
       "title": "Ransomware-Angriff Berlin (Rhysida) - Senatsverwaltungen",
@@ -99,18 +110,7 @@
       "summary": "Ransomware-Gruppe Rhysida erbeutete 5,8 Terabyte Behördendaten aus Berlins Senatsverwaltungen, forderte 30 Bitcoin Lösegeld und veröffentlichte Daten im Darknet.",
       "source": "Tech Insider Deutschland, BSI, Lulius",
       "url": "https://tech-insider.org/de/berlin-cyberangriff-rhysida-erpressung-2026/",
-      "weight": 7.48
-    },
-    {
-      "title": "Explosion eines unbekannten Gegenstands nahe Augsburger Hauptbahnhof",
-      "dimension": "societal_safety",
-      "severity": "moderate",
-      "location": "Augsburg",
-      "date": "2026-09-02",
-      "summary": "In einer Gebäudepassage nahe des Hauptbahnhofs explodierte nachts ein Gegenstand, wodurch zwei zufällige Passanten Knalltraumata erlitten.",
-      "source": "Radio Bamberg",
-      "url": "https://www.radio-bamberg.de/mehrere-verletzte-bei-explosion-nahe-augsburger-hauptbahnhof-2408469/",
-      "weight": 6.2
+      "weight": 7.43
     }
   ]
 }

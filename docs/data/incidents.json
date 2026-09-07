@@ -1102,5 +1102,22 @@
     "url": "https://ifcsd.de/meldungen/",
     "confidence": 0.75,
     "item_id": "verified-incident-113"
+  },
+  {
+    "is_incident": true,
+    "dimension": "critical_infrastructure",
+    "severity": "moderate",
+    "location": "Hambacher Forst, North Rhine-Westphalia",
+    "date": "2026-09-06",
+    "casualties": {
+      "injured": null,
+      "deaths": null
+    },
+    "summary": "Police ended a large‑scale search for a suspect believed to have carried out sabotage attacks on electricity transmission lines in the Hambacher Forst area.",
+    "confidence": 0.85,
+    "title": "Nordhein-Westfalen - Suche im Hambacher Forst nach Sabotage-Verdächtigem endet erfolglos",
+    "source": "Deutschlandfunk - Nachrichten",
+    "url": "https://www.deutschlandfunk.de/suche-im-hambacher-forst-nach-sabotage-verdaechtigem-endet-erfolglos-100.html",
+    "item_id": "3aa4c354bf546d1f8c2a1215"
   }
 ]
