@@ -463,3 +463,95 @@ a:focus-visible, .incident-row:focus-visible {
     font-size: 0.75rem;
   }
 }
+
+/* Ergänze das bestehende style.css mit diesen Additions am Ende: */
+
+/* -- hero trend ------------------------------------------------ */
+.hero-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-trend {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.3rem;
+}
+
+.hero-trend span:first-child {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.hero-trend span:last-child {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* -- latest grid ------------------------------------------------ */
+.latest-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.latest-box {
+  background: var(--surface);
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.latest-box h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.latest-box .count {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: var(--bg);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius);
+}
+
+/* -- top sections ------------------------------------------------ */
+.top-midnight,
+.top5 {
+  margin-bottom: 3rem;
+}
+
+/* -- responsive ------------------------------------------------- */
+@media (max-width: 640px) {
+  .hero-top {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .hero-trend {
+    align-items: flex-start;
+  }
+
+  .latest-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .latest-box {
+    padding: 1rem;
+  }
+
+  .latest-box h3 {
+    font-size: 0.85rem;
+  }
+}
