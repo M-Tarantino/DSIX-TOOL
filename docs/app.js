@@ -29,7 +29,7 @@ function formatTimestamp(iso) {
   const date = new Date(iso);
   return date.toLocaleString("en-GB", {
     day: "2-digit", month: "short", year: "numeric",
-    hour: "2-digit", minute: "2-digit", timeZoneName: "short",
+    hour: "2-digit", minute: "2-digit",
   });
 }
 
@@ -41,6 +41,25 @@ function renderHero(score) {
   document.getElementById("lastUpdated").textContent =
     "Updated " + formatTimestamp(score.computed_at);
   document.getElementById("scaleMarker").style.left = score.overall_score + "%";
+}
+
+function renderTrend7Days(history) {
+  if (!history || history.length < 2) {
+    document.getElementById("heroTrend").innerHTML = `<span>—</span><span>—</span>`;
+    return;
+  }
+  
+  const last7 = history.slice(-7);
+  const first = last7[0].overall_score;
+  const last = last7[last7.length - 1].overall_score;
+  const diff = last - first;
+  const direction = diff > 0 ? "↑" : diff < 0 ? "↓" : "→";
+  const color = diff > 0 ? "var(--red)" : diff < 0 ? "var(--teal)" : "var(--text-muted)";
+  
+  document.getElementById("trendDirection").textContent = direction;
+  document.getElementById("trendDirection").style.color = color;
+  document.getElementById("trendValue").textContent = `${Math.abs(diff).toFixed(1)}`;
+  document.getElementById("trendValue").style.color = color;
 }
 
 function renderDimensions(score) {
@@ -57,16 +76,16 @@ function renderDimensions(score) {
       <div class="dimension-bar-track">
         <div class="dimension-bar-fill" style="width:${dim.score}%; background:${DIMENSION_COLOR[key] || "var(--steel)"}"></div>
       </div>
-      <div class="dimension-score">${dim.score.toFixed(0)}<br><span style="opacity:.7">${dim.incidents_counted} inc.</span></div>
+      <div class="dimension-score">${dim.score.toFixed(0)}</div>
     `;
     container.appendChild(row);
   }
 }
 
-function renderTrend(history) {
+function renderTrendChart(history) {
   const svg = document.getElementById("trendChart");
   if (!history || history.length < 2) {
-    svg.innerHTML = `<text x="8" y="60" fill="var(--text-muted)" font-family="var(--font-sans)" font-size="12">Not enough history yet — check back after a few scheduled runs.</text>`;
+    svg.innerHTML = `<text x="8" y="60" fill="var(--text-muted)" font-family="var(--font-sans)" font-size="12">Not enough history yet.</text>`;
     return;
   }
 
@@ -84,11 +103,16 @@ function renderTrend(history) {
   `;
 }
 
-function renderIncidents(incidents) {
-  const container = document.getElementById("incidentList");
-  if (!incidents || incidents.length === 0) return; // keep the static empty-state markup
+function renderIncidents(incidents, container, limit = null) {
+  if (!incidents || incidents.length === 0) {
+    container.innerHTML = `<p class="empty-state">No incidents.</p>`;
+    return;
+  }
 
-  const sorted = [...incidents].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 25);
+  const sorted = [...incidents]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, limit || 25);
+
   container.innerHTML = "";
   for (const incident of sorted) {
     const row = document.createElement("div");
@@ -110,51 +134,73 @@ function renderIncidents(incidents) {
   }
 }
 
-function renderTop10(top10) {
-  const synthesisEl = document.getElementById("top10Synthesis");
-  const listEl = document.getElementById("top10List");
-  if (!top10 || !top10.items || top10.items.length === 0) return; // keep static empty-state
+function getMostImportantSinceMidnight(recent) {
+  if (!recent || recent.length === 0) return [];
+  
+  const now = new Date();
+  const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  
+  const sinceMidnight = recent
+    .filter(inc => new Date(inc.date) >= midnight)
+    .sort((a, b) => {
+      const severityOrder = { critical: 0, severe: 1, moderate: 2, minor: 3 };
+      return (severityOrder[a.severity] || 99) - (severityOrder[b.severity] || 99);
+    });
+  
+  return sinceMidnight.slice(0, 5);
+}
 
-  synthesisEl.textContent = top10.synthesis_text || "";
-  synthesisEl.classList.remove("empty-state");
-
-  listEl.innerHTML = "";
-  top10.items.forEach((item, i) => {
-    const row = document.createElement("div");
-    row.className = "incident-row";
-    const dateStr = item.date ? item.date.slice(0, 10) : "—";
-    row.innerHTML = `
-      <div class="incident-tags">
-        <span class="tag">#${i + 1}</span>
-        <span class="tag">${(item.dimension || "").replace(/_/g, " ")}</span>
-        <span class="tag tag-severity-${item.severity}">${item.severity}</span>
-        <span class="incident-date">${dateStr}</span>
-      </div>
-      <div class="incident-summary">${item.summary || item.title || ""}</div>
-      <div class="incident-meta">
-        ${item.location ? item.location + " · " : ""}${item.source || ""}
-        ${item.url ? ` · <a href="${item.url}" target="_blank" rel="noopener">source</a>` : ""}
-      </div>
-    `;
-    listEl.appendChild(row);
+function getTop5(allIncidents) {
+  if (!allIncidents || allIncidents.length === 0) return [];
+  
+  const severityScore = { critical: 4, severe: 3, moderate: 2, minor: 1 };
+  const now = new Date();
+  
+  const scored = allIncidents.map(inc => {
+    const age = (now - new Date(inc.date)) / (1000 * 60 * 60 * 24);
+    const decay = Math.pow(0.5, age / 14);
+    const base = severityScore[inc.severity] || 0;
+    return { ...inc, score: base * decay };
   });
+  
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5)
+    .map(({ score, ...rest }) => rest);
 }
 
 async function init() {
-  const [score, history, incidents, top10] = await Promise.all([
+  const [score, history, recent, allIncidents] = await Promise.all([
     fetchJson("data/score.json", null),
     fetchJson("data/history.json", []),
+    fetchJson("data/incidents-recent.json", []),
     fetchJson("data/incidents.json", []),
-    fetchJson("data/top10.json", null),
   ]);
 
   if (score) {
     renderHero(score);
     renderDimensions(score);
+    renderTrendChart(history);
+    renderTrend7Days(history);
   }
-  renderTrend(history);
-  renderTop10(top10);
-  renderIncidents(incidents);
+
+  // Latest RSS (recent)
+  const rssCount = document.getElementById("rssCount");
+  rssCount.textContent = recent.length;
+  renderIncidents(recent, document.getElementById("latestRss"), 3);
+
+  // Latest Web — mark by source containing "deep-search" or similar
+  const webIncidents = recent.filter(inc => inc.item_id && inc.item_id.includes("deep-search"));
+  document.getElementById("webCount").textContent = webIncidents.length;
+  renderIncidents(webIncidents, document.getElementById("latestWeb"), 3);
+
+  // Top since midnight
+  const topMidnight = getMostImportantSinceMidnight(recent);
+  renderIncidents(topMidnight, document.getElementById("topMidnight"), 5);
+
+  // Top 5 all time
+  const top5 = getTop5(allIncidents);
+  renderIncidents(top5, document.getElementById("top5List"), 5);
 }
 
 init();
